@@ -180,6 +180,8 @@ Das Steppenvolk aus den zentralen Steppen sind ein zähes Reitervolk, welches La
 ![[halblinge.png]]
 Halblinge, historisch gesehen als die "Dritte Hochkultur" sind ein heiteres und friedlebendes Volk aus engen Gemeinschaften. Sie lieben das Land, Speis und Trunk, abenteuerliche Geschichten und andere Kulturen. Sie leben meist simpel auf dem Land, ihre Zivilisationen sind aber dafür bekannt große Navalmächte, Söldnertruppen und Unternehmen gegründet zu haben. Diese Kontradiktion ist ein großer Spannungspunkt in der Wahrnehmung anderer auf Halblinge. Halblinge sehen sich als gute Nachbarn und die simplen Dinge des Lebens genießend, verneinen aber nicht ihren Kollonialismus wie die Eldari. Halblinge schätzen Freude, Geschichten, Wohlstand und Gemeinschaft. Andere Völker sehen sie als simpel, gastfreundlich, herzlich, warm, kultiviert aber auch als gierig, dekadent, lethargisch und apathisch.
 
+Es gibt, oder genauer gesagt gab, zwei Halbling Ethnizitäten, Die Buckland Halblinge, welche von der Buckland Insel kommen und die Mittelland Halblinge, welche aus dem Mittelland stammen. Diese zwei Ethnizitäten sind aber so weit vermischt, dass eine Differenzierung weitgehend nur aus historischem Interesse Sinn macht. Die Mittelländer standen von den Buckländern ab, die Buckländer tendieren zu helleren pigmentierungen während die Mittelländer zu dunkleren tendieren.
+
 10 pt
 **Attribute Modifiers:** 
 * ST-2 [-20]
@@ -194,8 +196,9 @@ Halblinge, historisch gesehen als die "Dritte Hochkultur" sind ein heiteres und 
 * Silence 1 [5]
 **Disadvantages:**
 * Gluttony (12) [-5]
+
 **Features:** 
-* Goldblondes bis dunkelblondes, braunes oder rotes Haar.
+* Goldblondes bis dunkelblondes, braunes, rotes oder schwarzes Haar.
 * Blaue, Grüne oder Braune Augen
 * Helle bis leichtgebräunte Haut
 # Lamia
