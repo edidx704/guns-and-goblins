@@ -74,7 +74,6 @@ Beleidigung gegen Menschen, wobei oftmals die Herkunft mit ins Spiel gezogen wir
 *"Geh zurück in die Beliden du stinkender Gebirgsaffe."*
 *"Laber keinen Scheiß, man sieht sofort an deinen hässlichen Ohren, dass du kein Eldari bist, du elmoider Steppenprimat"*
 *"Deine Mutter hat dich aus ihrer haarigen Primatenfotze ausgeschissen, du Drecks-enwa."*
-*"Man sollte deinen Schädel studieren, du elmoider Belidenprimat."*
 ## Viehvolk/Vieh
 Biestvolk, beleidigend, manchmal auch für Menschen und Halblinge verwendet.
 *"Das Viehvolk ist auch nur für die Feldarbeit zu gebrauchen.*
