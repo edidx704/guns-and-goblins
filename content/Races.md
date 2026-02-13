@@ -55,21 +55,21 @@ Spieler die Charaktere aus einer Misch-Elmzivilisation oder Erbschaft aus zwei V
 * Leicht füllig
 * Kleine, spitze Ohren oder Menschenohren
 ### Mensch
-7 pt
+9 pt
 **Secondary Characteristic Modifiers:**
-* HP +1 [2]
+* HP +2 [4]
 * Will +1 [5]
 **Features:**
 * Haarig
 * Mittel bis große Körpergröße
 * Menschenohren.
 ### Purmensch
-34 pt
+36 pt
 **Attribute Modifiers:**
 * ST +1 [10]
 * HT +1 [10]
 **Secondary Characteristic Modifiers:**
-* HP +2 [4]
+* HP +3 [6]
 * Will +2 [10]
 **Features:**
 * Haarig
