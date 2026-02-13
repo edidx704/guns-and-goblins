@@ -86,7 +86,7 @@ Kaharisch: Spoken (Native)/Written (Native) [3]
 Altkahar: Written (Native) [3]
 Cultural Familiarity (Südland) [1]
 # Mittelland Goblinisch
-Goblin sind teilintegriert in den Kulturen in denen sie historisch zwangsintegriert wurden, sprechen aber oftmals immernoch ihre eigene Sprache, Morlam, welches die mittelländische oder moranische Zeichensprache benutzt.
+Goblinkommunen findet man in den Kulturen in denen sie historisch zwangsintegriert wurden. Sie sprechen ein Alt-Mordari Pidgin, welches von einer Anzahl an verschiedenen altertümlichen Goblinoiden (Goblin, Orkisch, Trollisch, etc) Sprachen beinflusst wurde, welches Morlam, oder auch abwertend schwarze Sprache genannt wird. Morlam benutzt die mittelländische oder moranische Zeichensprache.
 Man findet Goblinkulturen hauptsächlich im Mittelland, Moranisches Königreich und Airania.
 
 Morlam: Spoken (Native) [3]
