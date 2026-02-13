@@ -1,4 +1,5 @@
 # Elmen
+![[elmen.png]]
 Der Standardhumanoide, die dominante Spezies des Kontinents.
 Zuerst: Pick wieviel Elf und wieviel Mensch dein Char ist, danach pick 1-2 Völker.
 ## Phänotyp
@@ -149,7 +150,7 @@ Das Steppenvolk aus den zentralen Steppen sind ein zähes Reitervolk, welches La
 * Braune Augen
 * Leichtbraune bis braune Haut
 # Goblins
-Goblins sind Überlebenskünster, Helden, Kettensprenger. Ihre traditionen erzählen von endlos vielen Heldentaten in denen ein Goblin gegen eine scheinbar hoffnungslose Situation triumphieren konnte. Desweiteren haben Goblins ein sehr entspanntes Gemüt, sie empfinden die anderen Spezies als übertrieben Sorgevoll. Goblins schätzen Entspannung, Freude, Heldentaten. Sie neigen manchmal zum hedonismus. Andere Völker empfinden Goblins als lässig, entspannt, witzig, freudig, mutig, etwas zu unbekümmert.
+![[goblins.png]]Goblins sind Überlebenskünster, Helden, Kettensprenger. Ihre traditionen erzählen von endlos vielen Heldentaten in denen ein Goblin gegen eine scheinbar hoffnungslose Situation triumphieren konnte. Desweiteren haben Goblins ein sehr entspanntes Gemüt, sie empfinden die anderen Spezies als übertrieben Sorgevoll. Goblins schätzen Entspannung, Freude, Heldentaten. Sie neigen manchmal zum hedonismus. Andere Völker empfinden Goblins als lässig, entspannt, witzig, freudig, mutig, etwas zu unbekümmert.
 
 8 pt
 **Attribute Modifiers:** 
@@ -176,6 +177,7 @@ Goblins sind Überlebenskünster, Helden, Kettensprenger. Ihre traditionen erzä
 * Blaue, grüne, braune, violette, gelbe oder rote Augen
 * Gelbgrüne bis Blaugrüne Haut
 # Halblinge
+![[halblinge.png]]
 Halblinge, historisch gesehen als die "Dritte Hochkultur" sind ein heiteres und friedlebendes Volk aus engen Gemeinschaften. Sie lieben das Land, Speis und Trunk, abenteuerliche Geschichten und andere Kulturen. Sie leben meist simpel auf dem Land, ihre Zivilisationen sind aber dafür bekannt große Navalmächte, Söldnertruppen und Unternehmen gegründet zu haben. Diese Kontradiktion ist ein großer Spannungspunkt in der Wahrnehmung anderer auf Halblinge. Halblinge sehen sich als gute Nachbarn und die simplen Dinge des Lebens genießend, verneinen aber nicht ihren Kollonialismus wie die Eldari. Halblinge schätzen Freude, Geschichten, Wohlstand und Gemeinschaft. Andere Völker sehen sie als simpel, gastfreundlich, herzlich, warm, kultiviert aber auch als gierig, dekadent, lethargisch und apathisch.
 
 10 pt
@@ -197,6 +199,7 @@ Halblinge, historisch gesehen als die "Dritte Hochkultur" sind ein heiteres und 
 * Blaue, Grüne oder Braune Augen
 * Helle bis leichtgebräunte Haut
 # Lamia
+![[lamia.png]]
 Die Lamia haben ein sehr weiches Gemüt, jedoch hat das Leben ihnen ein hartes Los aufgedrückt. Sie müssen sachlich sein, wären aber lieber gern romantisch. Lamia lernen früh orale Traditionen von ihren Müttern, zu denen Sie bevorzugen ein Leben lang ein gutes Verhältnis zu pflegen. Lamia wertschätzen Kunst, Wissenschaft, Kultur, Geschichte, Mythen, Kommunen. Manchmal spielen Lamia gehässig in die Vorurteile der anderen Völker. Völker, welche sie besser kennen lernen, beschreiben sie als vorsichtig, kommunal, intim, melancholisch, manchmal hinterlistig, pragmatisch, zynisch.
 
 47 pts
@@ -222,6 +225,7 @@ Lamia sind um die 4m lang, mit einem torso von einem Meter und einem 3 Meter sch
 * Weisse, helle, leichtgebräunte, oder hellblau bis hellviolette Haut.
 * Schwanzschuppen in verschiedensten Farbkombinationen und Mustern.
 # Biestvolk
+![[biestvolk.jpg]]
 Die Historie der Fabelwesenartigen Biestvolk ist so vielfältig wie ihre Artenvielfalt und ihr Selbstverständnis und von daher schwer in einem Absatz zu beschreiben. Das Selbstbild eines zusammengefassten Biestvolkes ist eine Bewegung aus der Neuzeit und wird von vielen Biestvolk als ihnen von den anderen Völkern aufgezwungen aufgefasst, es ist schwierig für einen Biestvolk sich mit Mitglieder seiner Spezies zu identifizieren wenn dessen Aussehen von Elmgleich bis zu bestial reicht. Biestvolk organisieren sich oft in Familienbänden und Kommunen oder integriert in der lokalen Halbling oder Elmgesellschaft. Ihr gemeinsames Selbstverständnis von sich kann als stark, ausharrend, geduldig, und schlau bestimmt werden, während andere sie als tolerant, weise und diplomatisch wahrnehmen.
 
 Biestvolkgeschichte nimmt oftmals zweitrangig Platz in der Historie, verdrängt von der langen Kriegshistorie von Mensch und Elf. Biestvolk sind unglaublich vielfältig, von tierähnlichen Humanoiden (Catgirls) bis zu bestialen Humanoiden (*Furry* Furries).
