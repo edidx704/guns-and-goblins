@@ -50,31 +50,31 @@ Airanier sprechen Airanisch und benutzen das mittelländische Alphabet für ihre
 Airanisch: Spoken (Native)/Written (Native) [6]
 Cultural Familiarity (Mittelland) [0]
 # Moranier
-Ist ein Überbegriff für die vielen verschiedenen Kulturen im Verwaltungsbereich des Moranischem Kaiserreiches, die Bevölkerung spricht, neben ihren eigenen Volkssprachen, meist noch die Moranische Amtspsrache (Auch bekannt als Tief-Mordarin), welches ein vereinfachte, syllabographische und alphabetische Zeichensprache benutzt. Die Zeichensprache basiert auf Mordari Keilschrift.
+Ist ein Überbegriff für die vielen verschiedenen Kulturen im Verwaltungsbereich des Moranischem Kaiserreiches, die Bevölkerung spricht, neben ihren eigenen Volkssprachen, meist noch die Moranische Amtspsrache (Auch bekannt als Tief-Mordarin), welches ein vereinfachte, syllabographische und alphabetische Schrift benutzt. Die Schrift basiert auf Mordari Keilschrift
 
 Moranisch: Spoken (Native)/Written (Native) [6]
 Cultural Familiarity (Mittelland) [0]
 # Irinier
-Irinier sind eine Kultur der Ostelmen, sie leben primär im irinischem Taiga. Man findet sie desweiteren noch in Ostmorania und Serika. Die Irinische Sprache benutzt die moranische oder serike Zeichensprache.
+Irinier sind eine Kultur der Ostelmen, sie leben primär im irinischem Taiga. Man findet sie desweiteren noch in Ostmorania und Serika. Die Irinische Sprache benutzt die moranische oder serike Schriftsprache.
 
 Irinisch: Spoken (Native) [3]
-Irinisch (Moranische Zeichensprache): Written (Native) [3]
+Irinisch (Moranische Schrift): Written (Native) [3]
 Serikisch: Written (Native) [3]
 Cultural Familiarity (Ostland) [1]
 # Seriken
-Die Seriken sind eine kultur der Ostelemen und leben in Serika. Sie benutzen eine logographische Zeichensprache. Der Verbreitungsraum der Seriken reicht von Östliche zentrale Steppe bis nach Irinia.
+Die Seriken sind eine Kultur der Ostelemen und leben in Serika. Sie benutzen eine logographische Schriftsprache. Der Verbreitungsraum der Seriken reicht von der östlichen zentralen Steppe bis nach Irinia.
 
 Serikisch: Spoken (Native)/Written (Native) [6]
 Cultural Familiarity (Ostland) [1]
 # Beliden
-Die Kultur der Menschen aus der belidischen Bergkette. Ihre kultur reicht vom östlichem Mittelland über die zentrale Steppe bis nach Nordkahar. Belidisch hat keine eigene Schriftform und benutzt hauptsächlich das Mittelländische Alphabet oder die moranische Zeichensprache.
+Die Kultur der Menschen aus der belidischen Bergkette. Ihre kultur reicht vom östlichem Mittelland über die zentrale Steppe bis nach Nordkahar. Belidisch hat keine eigene Schriftform und benutzt hauptsächlich das Mittelländische Alphabet oder die moranische Schrift.
 
 Belidisch: Spoken (Native) [3]
 Belidisch (Mittelländisches Alphabet): Written (Native) [3]
-Belidisch(Moranische Zeichensprache): Written (Native) [3]
+Belidisch(Moranische Schrift): Written (Native) [3]
 Cultural Familiarity (Mittelland) [0]
 # Steppenvolk
-Die Kultur des Menschlichen Steppenvolks reicht von Südmoranien bis nach Serika. Die dominante Sprache des Steppenvolks ist Uydar und benutzt die serike Zeichensprache. 
+Die Kultur des Menschlichen Steppenvolks reicht von Südmoranien bis nach Serika. Die dominante Sprache des Steppenvolks ist Uydar und benutzt die serike Schriftsprache. 
 
 Uydar: Spoken (Native) [3]
 Serikisch: Written (Native) [3]
@@ -86,12 +86,12 @@ Kaharisch: Spoken (Native)/Written (Native) [3]
 Altkahar: Written (Native) [3]
 Cultural Familiarity (Südland) [1]
 # Mittelland Goblinisch
-Goblinkommunen findet man in den Kulturen in denen sie historisch zwangsintegriert wurden. Sie sprechen ein Alt-Mordari Pidgin, welches von einer Anzahl an verschiedenen altertümlichen Goblinoiden (Goblin, Orkisch, Trollisch, etc) Sprachen beinflusst wurde, welches Morlam, oder auch abwertend schwarze Sprache genannt wird. Morlam benutzt die mittelländische oder moranische Zeichensprache.
+Goblinkommunen findet man in den Kulturen in denen sie historisch zwangsintegriert wurden. Sie sprechen ein Alt-Mordari Pidgin, welches von einer Anzahl an verschiedenen altertümlichen Goblinoiden (Goblin, Orkisch, Trollisch, etc) Sprachen beinflusst wurde, welches Morlam, oder auch abwertend schwarze Sprache genannt wird. Morlam benutzt die mittelländische oder moranische Schrift.
 Man findet Goblinkulturen hauptsächlich im Mittelland, Moranisches Königreich und Airania.
 
 Morlam: Spoken (Native) [3]
 Morlam (Mittelländisches Alphabet): Written (Native) [3]
-Morlam (Moranische Zeichensprache): Written (Native) [3]
+Morlam (Moranische Schrift): Written (Native) [3]
 Cultural Familiarity (Mittelland) [0]
 # Lamia
 Die urpsrüngliche Kultur der Lamia findet man primär in nomadischen Gruppen in Kahar, Enklaven der Lamia reichen von Kahar übers Mittelland und Eldaria bis ins moranische Kaiserreich. Die Sprache der Lamia benutzt die altkaharische, logographische Schriftsprache.
