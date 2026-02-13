@@ -31,7 +31,7 @@ Du hast geschworen, Estria zu befreien. Du kannst Gelegenheiten zum Angriff auf 
 ###  Intolerance (Specific Prejudice) [–5]  💀 
 Du hälst eine von den gängigen voreingenommenen Meinungen (e.g., “Halblinge sind giering”, “Lamia sind Verführerinnen”, “Goblins sind überschwänglich”, etc). –3 reaction von der betroffenen Gruppe und –1 von Progressiven.
 ### Intolerance (Acessibility, Not towards the one's you like, -20%) [-4]  💀 
-Ganz klassisch selektive Intoleranz. Du bist voreingenommen von einer Spezifischen Gruppe, außer einigen Einzelpersonen. Z.b. Kann es sein, dass du alle Langohren hasst, außer dein Kumpel Steve. "He's one of the good ones" Rhetorik. Immerhin -3 reactions von der Gruppe, aber immerhin musst du nicht Gemein zu deiner Gruppe sein.
+Ganz klassisch selektive Intoleranz. Du bist voreingenommen von einer Spezifischen Gruppe, außer einigen Einzelpersonen. Z.b. Kann es sein, dass du alle Langohren hasst, außer dein Kumpel Steve. "He's one of the good ones" Rhetorik. Immer noch-3 reactions von der betroffenen Gruppe, aber immerhin musst du nicht Gemein zu deinen Mitspielern sein.
 ### Paranoia (Moranische Informanten) [–10]
 Im besetzten Estria lebst du in ständiger Angst, dass die Dorfbewohner, denen man heute hilft, einen morgen verraten oder dass einer der „freundlichen“ Einheimischen Kollaborateure sind. –2 auf alle reactions gegenüber Fremden, bis du sie wochenlang kennst.
 ### Enemy (Moranische Okkupanten) [–10 / –20 / –30]
