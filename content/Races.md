@@ -3,7 +3,7 @@
 Der Standardhumanoide, die dominante Spezies des Kontinents.
 Zuerst: Pick wieviel Elf und wieviel Mensch dein Char ist, danach pick 1-2 Völker.
 ## Phänotyp
-Note: Phenotypen sagt nichts *direkt* über die "Rassereinheit" (ew) eines Charakter aus. Zb. können zwei Elf-phänotyp Eltern ein Purelf zeugen, oder zwei Purelfen einen Elfen, wenn menschliches Blut in deren Linie vorhanden ist (was nur bei Ausnahmefällen nicht der Fall wäre!). Nur absolute super highlevel Turborassisten würden zwischen einem Purelf und einem Elf oder einem Purmenschen und einem Menschen unterscheiden können, die meisten Leute haben Schwierigkeiten selbst Elfen, Elmen und Menschen ausseinanderzuhalten.
+Note: Phenotypen sagt nichts *direkt* über die "Rassereinheit" (ew) eines Charakter aus, es ist lediglich eine Ausprägung von Eigenschaften. Zb. können zwei Elf-phänotyp Eltern ein Purelf zeugen, oder zwei Purelfen einen Elfen, wenn menschliches Blut in deren Linie vorhanden ist (was nur bei Ausnahmefällen nicht der Fall wäre!). Nur absolute super highlevel Turborassisten würden zwischen einem Purelf und einem Elf oder einem Purmenschen und einem Menschen unterscheiden können, die meisten Leute haben Schwierigkeiten selbst Elfen, Elmen und Menschen ausseinanderzuhalten.
 
 **Distribution:**
 Spieler die Charaktere aus einer Misch-Elmzivilisation oder Erbschaft aus zwei Völkern, welche nicht den gleichen "Spezies"-typ haben, spielen, können mit dieser Tabelle ihren Phänotyp auswürfeln, wenn sie wollen:

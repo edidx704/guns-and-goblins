@@ -1,6 +1,8 @@
 # Rassistisches Gedankengut
 ## Elf, Elm und Mensch
-Aussagen über Elmen, Elfen und Menschen sind nicht *direkt* rassistsch, aber je nach Kultur kein höfliches Konversationsthema. Progressive wünschen sich die Differenzierung abzuschaffen ("Wir sind alle Elmen") während Konservative sich mehr Segregation wünschen. 
+Aussagen über Elmen, Elfen und Menschen sind nicht *direkt* rassistsch, aber je nach Kultur kein höfliches Konversationsthema. Progressive wünschen sich die Differenzierung abzuschaffen ("Wir sind alle Elmen") während Konservative sich mehr Segregation wünschen.
+## Menschen haben auch spitze Ohren
+Dies ist keine rassistische Aussage, aber eine etwas geladene Aussage: Was man in der Neuzeit als "Mensch" betrachtet, kann spitze Ohren haben... Historisch dokumentiert hatten Menschen aber *keine* spitzen Ohren. Dies lässt sich jedoch mit heutigen Mitteln weder beweisen noch widerlegen und ist ein Streitthema.
 ## Menschen und Halblinge sind Biestvolk
 Primär Elfenvorherrschaftsgedankengut, welches Menschen, Halblinge und Biestvolk auf ein Level unter Elfen setzt.
 ## Menschen stinken und sind dumm
