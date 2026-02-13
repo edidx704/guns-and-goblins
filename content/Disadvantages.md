@@ -34,7 +34,6 @@ Du hälst eine von den gängigen voreingenommenen Meinungen (e.g., “Halblinge 
 Ganz klassisch selektive Intoleranz. Du bist voreingenommen von einer Spezifischen Gruppe, außer einigen Einzelpersonen. Z.b. Kann es sein, dass du alle Langohren hasst, außer dein Kumpel Steve. "He's one of the good ones" Rhetorik. Immerhin -3 reactions von der Gruppe, aber immerhin musst du nicht Gemein zu deiner Gruppe sein.
 ### Paranoia (Moranische Informanten) [–10]
 Im besetzten Estria lebst du in ständiger Angst, dass die Dorfbewohner, denen man heute hilft, einen morgen verraten oder dass einer der „freundlichen“ Einheimischen Kollaborateure sind. –2 auf alle reactions gegenüber Fremden, bis du sie wochenlang kennst.
-
 ### Enemy (Moranische Okkupanten) [–10 / –20 / –30]
 Die Invasoren verfügen über deine Personenbeschreibung, haben ein Kopfgeld auf dich ausgesetzt oder betrachten dich als Ziel mit hoher Priorität. Sie jagen dich aktiv.
 - **–10** = Die lokale Garnison kennt dich.
@@ -45,10 +44,8 @@ Du hast eine der verbreiteten hasserfüllten Ansichten übernommen und richtest 
 ### No True Goblin (Quirk level Intolerance) [-1] 💀
 *Requires: Goblinspezies*
 Du hast verinnerlicht, wie ein Goblin zu sein hat, und bist voreingenommen von Mitgliedern deiner Spezies, welche sich penibel, verweichlicht, snobbisch, spießig, oder kurz gesagt, wie Nicht-Goblins verhalten und neigst dazu diese "grünen Spitzohren" zu verpöhnen.
-
-### Vow (Ich werde nie wieder zulassen, dass sie mich so nennen) [–5]
-Du hast geschworen, eine bestimmte Beleidigung niemals zu dulden. Du musst gewaltsam oder mit extremer Konfrontation reagieren, wenn sie gegen dich oder ein anderes Crewmitglied verwendet wird.
-
+### Vow (Ich werde nie wieder zulassen, dass mich jemand so nennt.) [–5]
+Du hast geschworen, eine bestimmte Beleidigung niemals zu dulden. Du musst mit extremer Konfrontation reagieren, wenn sie gegen dich oder ein anderes Crewmitglied verwendet wird.
 ### Fanaticism/Extreme Fanaticism (Estria) [-15]
 Du glaubst so fest an Estria, dass du dein Land über alles andere stellst. Du wärst sogar bereit, dafür zu sterben! Wenn dein Land Gehorsam gegenüber einem Verhaltenskodex oder Loyalität gegenüber einer Führungsperson verlangt, fügst du dich bereitwillig und bedingungslos. Du musst diese unerschütterliche Hingabe im Rollenspiel konsequent verkörpern.
 ### Fanaticism/Extreme Fanaticism (Liberty) [-15]
