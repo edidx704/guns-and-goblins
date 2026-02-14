@@ -24,10 +24,11 @@ Die flüchtigen Brennstoffe. Energiedicht, hochentzündlich, in Untergraden verf
 ### Spectringase
 Schwach lumineszierendes Gasmischungen, welche sich am Kopf der Kolonnen sammeln. Im Vergleich zu den anderen Fraktionen sehr wenig verstanden und kommerziell noch nicht ausgereift.
 
-Dampfbehandlung bezeichnet das Verfahren, bei dem Materialien oder Verbindungen mit kondensiertem Spectringasen versetzt werden — mit Ergebnissen zwischen leicht ungewöhnlich und schlicht unerklärlich. Dampfgehärteter Stahl hält seine Schärfe länger und schimmert schwach. Dampfbehandelte Pigmente wechseln die Farbe.
-# Opal Cola
+Dampfbehandlung bezeichnet das Verfahren, bei dem Materialien oder Verbindungen mit kondensiertem Spectringasen versetzt werden — mit Ergebnissen zwischen leicht ungewöhnlich und schlicht unerklärlich. Dampfgehärteter Stahl hält seine Schärfe länger und schimmert schwach. Dampfbehandelte Pigmente wechseln die Farbe. Dampfbehandelte Materialien sind die grundlegende Technologie für Automakülprothesen und Autoklasten.
+# Opal-Cola
 ![[opal_cola.png]]
 Multinationale Handelsgesellschaft mit Sitzen im Buckland und in der Mittelländischen Republik. Produziert Erfrischungsgetränke aus Irisolsacchariden und eine andere Vielzahl an Irisolprodukten. Steht unter Kritik aufgrund Beteidigung bei Konflikten in Südkahar.
+Neben Opal-Cola Klassik, Vanille und Kirsch gibt es auch noch Opal-Cola Petro, welches im Pinch als Opalinsubstitut verwendet werden kann. Die biologischen Folgen davon sind ungewiss, gilt aber laut Opal-Cola-finanzierten studien als absolut bedenklos.
 # Pecos
 ![[peco.png]]
 Großer, gelber Laufvogel, eins der weitverbreitetsten Nutztiere der Welt. Wird benutzt als Reit-, Last-, Zug-, und gelegentlich auch als Lege- und Schlachttier.
