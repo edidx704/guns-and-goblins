@@ -35,7 +35,7 @@ Sie haben ein ruhiges Gemüt aber trotzdem einen scharfen Schnabel und Klauen. P
 # Automaküleprothesen
 ![[automakül.png]]
 Automaküle/Makülprothesen sind Opalinbetriebene Metallprothesen und basieren auf Spektringastechnologie. Man sieht Automakülprothesen gelegentlich an Veteranen.
-Maküleprothesen verbrauchen ungefähr einen halben Liter Opalin ($0.2, 0.8lb) pro tag.
+Maküleprothesen verbrauchen ungefähr einen halben Liter Opalin ($0.2, 0.8 lb) pro tag.
 
 DM Note: Für coole Fähigkeiten und so weiter schau nach [[Miracles, Magic and Superscience!#Superscience]], falls Interesse besteht bau ich euch coole Superscience Fähigkeiten oder eingebaute Waffen für eure Prothesen :3
 
@@ -57,7 +57,7 @@ $8,000, 50 lbs
 # Autoklasten
 ![[Autoklast.png]]
 Ein Autoklast ist ein kleiner, humanoider Automat welcher auf Spectringastechnologie basiert. Autoklasten werden oftmals für simple Arbeiten eingesetzt. 
-Ein Autoklast verbraucht täglich 1.2 liter Opalin ($0.5) und muss einmal monatlich mit Mechanic (Autoclast) instand gehalten werden und kostet $5000.
+Ein Autoklast verbraucht täglich 1.2 liter Opalin ($0.5, 2lbs) und muss einmal monatlich mit Mechanic (Autoclast) instand gehalten werden und kostet $5000.
 ## Ally (Autoklast, Constantly, Minion) [6]
 Du bist im Besitz eines Autoklasten!
 Ein Autoklast hat 100 punkte wovon 73 vom Autoclast template abgezogen werden. Verteil die restlichen 27 punkte auf advantages und skills.
