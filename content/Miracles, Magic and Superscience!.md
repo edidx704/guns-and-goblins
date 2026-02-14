@@ -78,11 +78,11 @@ Passend für Erfinder und Verrückte Wissenschaftler.
 Superscience Advantages sind meist Gadgets und haben Gadget Limitations wie Breakable und Can be Stolen.
 ### Turbocharger
 15 pt/level
-Du bist im Besitz eines experimentellen Turboladers: der Radialring des Laders ist ungefähr 1/3 meter groß und muss an einem großem Motor befestigt werden.
+Du bist im Besitz eines experimentellen Turboladers: der Radialring des Laders ist ungefähr 1/3 meter groß und muss an einem großen Motor befestigt werden.
 Du jagst mit Gewalt raffiniertes Astrium durch den Panzermotor! Würfel auf den relevanten Driving Skill:
 Falls dies ein Erfolg ist, muss das Fahrzeug einen HT+Turbolader level Wurf machen:
 Die Maximal Landgeschwindigkeit des Fahrzeugs verdoppelt sich für 1 minute pro Margin of Success des HT Wurfs.
-Turbocharger hat ein paar negative Effekte, die Geschehen selbst wenn der Effekt fehlschlägt:
+Turbocharger hat ein paar negative Effekte die eintreten selbst wenn die Würfe Misserfolge waren:
 * Es fügt 1d Schaden am Panzermotor zu
 * Der Effekt ist unglaublich laut und deutlich Sichtbar, dramatische blaue Flammen speihen aus dem Auspuff
 * Die Innentemperatur des Fahrzeugs erhöht sich um 10 grad Celsius
