@@ -14,6 +14,7 @@ Ich hab das ja versucht in der letzten Kampagne vorzuschreiben, aber ist hart in
 * Girls last tour
 * Nausicaä of the valley
 * Dungeon Meshi
+* Fullmetal Alchemist: Brotherhood
 ## Spiele
 * Valkyria Chronices
 * Gunner, Heat, PC!
