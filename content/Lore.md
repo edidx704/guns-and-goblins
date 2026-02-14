@@ -37,6 +37,7 @@ Sie haben ein ruhiges Gemüt aber trotzdem einen scharfen Schnabel und Klauen. P
 ![[automakül.png]]
 Automaküle/Makülprothesen sind Opalinbetriebene Metallprothesen und basieren auf Oktaringastechnologie. Man sieht Automakülprothesen gelegentlich an Veteranen.
 Maküleprothesen verbrauchen ungefähr einen halben Liter Opalin ($0.2, 0.8 lb) pro tag.
+Schaden an Maküleprothesen werden mit **Mechanic (Maküle)** repariert.
 
 DM Note: Für coole Fähigkeiten und so weiter schau nach [[Miracles, Magic and Superscience!#Superscience]], falls Interesse besteht bau ich euch coole Superscience Fähigkeiten oder eingebaute Waffen für eure Prothesen :3
 
@@ -55,6 +56,17 @@ $4,000, 12 lbs.
 
 **Automakülebein (paar):** Ersetzt Legless [-30] und die assoziierte Basic Move reduction [varies] mit Basic Move reduced to 0 (Mitigator, Can be removed with difficulty, Brauch täglich Opalin, -60%) [varies]; Legless (Mitigator, Can be removed with difficulty, Brauch täglich Opalin, -60%) [-12]. 
 $8,000, 50 lbs
+
+folgende tabelle ist für SM-2 charaktere (Goblins, Halblinge, kleines Biestfolk):
+
+
+| **Component**      | **Weight** | **HP**    | **DR** | **Cost** |
+| ------------------ | ---------- | --------- | ------ | -------- |
+| **Automakülearm**  | 6 lbs      | 8         | 3      | $4,000   |
+| **Automakülehand** | 1.2 lbs    | 5         | 3      | $2,000   |
+| **Automakülebein** | 10 lbs     | 10        | 3      | $4,000   |
+| **Bein (Paar)**    | 20 lbs     | 10 (each) | 3      | $8,000   |
+
 # Autoklasten
 ![[Autoklast.png]]
 Ein Autoklast ist ein kleiner, humanoider Automat welcher auf Oktaringastechnologie basiert. Autoklasten werden oftmals für simple Arbeiten eingesetzt. 
