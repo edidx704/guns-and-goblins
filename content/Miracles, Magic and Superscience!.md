@@ -77,17 +77,39 @@ Falls Spieler solche Spielen wollen schau in GURPS Thaumatology, "Ritual Magic".
 Passend für Erfinder und Verrückte Wissenschaftler.
 Superscience Advantages sind meist Gadgets und haben Gadget Limitations wie Breakable und Can be Stolen.
 ### Turbocharger
-12 pt/level
-Du bist im Besitz eines experimentellen Turboladers: der Radialring des Laders ist ungefähr 1/3 meter groß und muss an einem großen Motor befestigt werden.
-Du jagst mit Gewalt volatiles Spectringas durch den Panzermotor! Würfel auf den relevanten Driving Skill:
-Falls dies ein Erfolg ist, muss das Fahrzeug einen HT+Turbolader level Wurf machen:
+10 pt/level
+Du bist im Besitz eines experimentellen Turboladers: der Radialring des Laders ist ungefähr 1/3 meter groß und muss an einem großen Motor befestigt werden, dies dauert 10 minuten und erfordert den relevanten Mechanic Skillwurf.
+Du jagst mit Gewalt volatiles Spectringas durch den Panzermotor!  Falls du den Turbolader einsetzt muss das Fahrzeug einen HT+Turbolader level Wurf machen:
 Die Maximal Landgeschwindigkeit des Fahrzeugs verdoppelt sich für 1 minute pro Margin of Success des HT Wurfs.
 Turbocharger hat ein paar negative Effekte die eintreten selbst wenn die Würfe Misserfolge waren:
 * Es fügt 1d Schaden am Panzermotor zu
 * Der Effekt ist unglaublich laut und deutlich Sichtbar, dramatische blaue Flammen speihen aus dem Auspuff
 * Die Innentemperatur des Fahrzeugs erhöht sich um 10 grad Celsius
+Nachdem der Turbolader eingesetzt wurde, muss er erneut instand gehalten werden.
 
-das spezifische Spectringas für den Turbocharger kostet $50 pro charge.
-Der Turbolader muss 10 min vorbereitet werden um Korrekt zu funktionieren.
+Das spezifische Spectringas für den Turbocharger kostet $50 pro charge.
 
-*Statistics: Affliction 1 (Advantage (Enhanced Move 1), 200%, Touch, -30%, Breakable (Durability: DR 10, Machine, Can be repaired (mechanic), SM -4 (ungefähr 1/3 meter groß)), -30% , Can Be Stolen (Must be forcefully removed), -10%, Accessibility (Large Motors), -30%, Requires Skill Roll (Driving), -10%, Trigger (Turbolader Spectringas), -20%, Nuisance Effect (Deals 1d damage to the Motor per use), -10%, Nuisance Effect (Sehr Laut, blaues Feuer speiht aus dem Auspuff), -5%, Nuisance Effect (Die Innentemperatur des Panzers steigt um 10 C), -5%, Preparation Required (10 minutes), -30%) [12]*
+*Statistics: Affliction 1 (Advantage (Enhanced Move (Nuisance Effect (Deals 1d damage to the Motor per use) -10%, Nuisance Effect (Sehr Laut, blaues Feuer speiht aus dem Auspuff), -5%, Nuisance Effect (Die Innentemperatur des Panzers steigt um 10 C), -5%) [16]) 160%, Touch -30%, Breakable (Durability: DR 10, Machine, Can be repaired (Mechanic), SM -4 (ungefähr 1/3 meter groß)), -30%, Can Be Stolen (Must be forcefully removed), -10%, Accessibility (Large Motors) -30%, Requires Skill Roll (Mechanic), -10%, Trigger (Turbolader Spectringas), -20%, Preparation Required (10 minutes), -30%) [10] additional levels increase Affliction.* 
+### Autoklast Akkumulatorübertakter
+12 pt for level 1, 18 pt per aditional level
+
+Du hast einen Akkumulatorübertakter welcher temporär dramatisch die mentalen Kapazitäten von Autoklasten erhöht. Das Modul ist 20cm groß, das Einsetzen am Hinterkopf erfordert einen Mechanic (Autoklast) wurf und nimmt 10 Minuten in Anspruch.
+Wenn du den Übertakter aktivierst, muss der Autoklast einen HT-Wurf machen, der Autoklast bekommt ``1 x level + IQ`` für eine Minute pro Margin of Success des HT Wurfs.
+
+Diese Fähigkeit hat ein paar negative Effekte die eintreten, selbst wenn die Würfe Misserfolge waren:
+* Der Autoklast nimmt 2 hp schaden
+* Der Autoklast erhält temporär ein Mental Disadvantage, würfel auf folgender Tabelle:
+
+| d   | Mental Disadvantage |
+| --- | ------------------- |
+| 1   | Bad Temper (12)     |
+| 2   | Impulsiveness (12)  |
+| 3   | Cowardice (12)      |
+| 4   | Major Delusion      |
+| 5   | Lecherousness (12)  |
+| 6   | Low Self-Image      |
+Nachdem der Übertakter eingesetzt wurde, muss er erneut instand gehalten werden.
+
+Das spezifische Spectringas für den Übertakter kostet $50 pro charge.
+
+Statistics: *Affliction 1, (Advantage (IQ+1 (Nuisance Effect (Deals 2 damage afterwards) -5%, Nuisance Effect (Temporary mental disadvantage) -5%) [18]), 180%, Touch -30%, Breakable (Durability: DR 4, Machine, Can be repaired (Mechanic(Autoklast)) SM -8 or less) -30%, Can Be Stolen (Must be forcefully removed), -10%, Accessibility (Autoklast, welcher vorbereitet werden muss) -30%, Requires Skill Roll (Mechanic (Autoclast)) -10%, Trigger (Übertakter Spectringas), -20%, Preparation Required (10 Minutes) -30%) [12]. Further levels increase the modified IQ nestled in the Affliction.*
