@@ -10,9 +10,9 @@ Ich hab das ja versucht in der letzten Kampagne vorzuschreiben, aber ist hart in
 ## Filme und Serien
 * Fury
 * Komm und sieh
-* Tanya the evil
+* Tanya the Evil
 * Girls last tour
-* Nausicaä of the valley
+* Nausicaä of the Valley
 * Dungeon Meshi
 * Fullmetal Alchemist: Brotherhood
 ## Spiele
@@ -21,4 +21,4 @@ Ich hab das ja versucht in der letzten Kampagne vorzuschreiben, aber ist hart in
 * Morrowind
 * Final Fantasy series
 * Dragon Quest
-* The Witcher
+* Fallout Series
