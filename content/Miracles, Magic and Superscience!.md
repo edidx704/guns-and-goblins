@@ -79,7 +79,7 @@ Superscience Advantages sind meist Gadgets und haben Gadget Limitations wie Brea
 ### Turbocharger
 10 pt/level
 Du bist im Besitz eines experimentellen Turboladers: der Radialring des Laders ist ungefähr 1/3 meter groß und muss an einem großen Motor befestigt werden, dies dauert 10 minuten und erfordert den relevanten Mechanic Skillwurf.
-Du jagst mit Gewalt volatiles Spectringas durch den Panzermotor!  Falls du den Turbolader einsetzt muss das Fahrzeug einen HT+Turbolader level Wurf machen:
+Du jagst mit Gewalt volatiles Octarin durch den Panzermotor!  Falls du den Turbolader einsetzt muss das Fahrzeug einen HT+Turbolader level Wurf machen:
 Die Maximal Landgeschwindigkeit des Fahrzeugs verdoppelt sich für 1 minute pro Margin of Success des HT Wurfs.
 Turbocharger hat ein paar negative Effekte die eintreten selbst wenn die Würfe Misserfolge waren:
 * Es fügt 1d Schaden am Panzermotor zu
@@ -87,9 +87,9 @@ Turbocharger hat ein paar negative Effekte die eintreten selbst wenn die Würfe 
 * Die Innentemperatur des Fahrzeugs erhöht sich um 10 grad Celsius
 Nachdem der Turbolader eingesetzt wurde, muss er erneut instand gehalten werden.
 
-Das spezifische Spectringas für den Turbocharger kostet $50 pro charge.
+Das spezifische Octarin Gas für den Turbocharger kostet $50 pro charge.
 
-*Statistics: Affliction 1 (Advantage (Enhanced Move (Nuisance Effect (Deals 1d damage to the Motor per use) -10%, Nuisance Effect (Sehr Laut, blaues Feuer speiht aus dem Auspuff), -5%, Nuisance Effect (Die Innentemperatur des Panzers steigt um 10 C), -5%) [16]) 160%, Touch -30%, Breakable (Durability: DR 10, Machine, Can be repaired (Mechanic), SM -4 (ungefähr 1/3 meter groß)), -30%, Can Be Stolen (Must be forcefully removed), -10%, Accessibility (Large Motors) -30%, Requires Skill Roll (Mechanic), -10%, Trigger (Turbolader Spectringas), -20%, Preparation Required (10 minutes), -30%) [10] additional levels increase Affliction.* 
+*Statistics: Affliction 1 (Advantage (Enhanced Move (Nuisance Effect (Deals 1d damage to the Motor per use) -10%, Nuisance Effect (Sehr Laut, blaues Feuer speiht aus dem Auspuff), -5%, Nuisance Effect (Die Innentemperatur des Panzers steigt um 10 C), -5%) [16]) 160%, Touch -30%, Breakable (Durability: DR 10, Machine, Can be repaired (Mechanic), SM -4 (ungefähr 1/3 meter groß)), -30%, Can Be Stolen (Must be forcefully removed), -10%, Accessibility (Large Motors) -30%, Requires Skill Roll (Mechanic), -10%, Trigger (Turbolader Octarin), -20%, Preparation Required (10 minutes), -30%) [10] additional levels increase Affliction.* 
 ### Autoklast Akkumulatorübertakter
 12 pt for level 1, 18 pt per aditional level
 
@@ -111,6 +111,6 @@ Diese Fähigkeit hat ein paar negative Effekte die eintreten, selbst wenn die W�
 
 Nachdem der Übertakter eingesetzt wurde, muss er erneut instand gehalten werden.
 
-Das spezifische Spectringas für den Übertakter kostet $50 pro charge.
+Das spezifische Octaringas für den Übertakter kostet $50 pro charge.
 
-Statistics: *Affliction 1, (Advantage (IQ+1 (Nuisance Effect (Deals 2 damage afterwards) -5%, Nuisance Effect (Temporary mental disadvantage) -5%) [18]), 180%, Touch -30%, Breakable (Durability: DR 4, Machine, Can be repaired (Mechanic(Autoklast)) SM -8 or less) -30%, Can Be Stolen (Must be forcefully removed), -10%, Accessibility (Autoklast, welcher vorbereitet werden muss) -30%, Requires Skill Roll (Mechanic (Autoclast)) -10%, Trigger (Übertakter Spectringas), -20%, Preparation Required (10 Minutes) -30%) [12]. Further levels increase the modified IQ nestled in the Affliction.*
+Statistics: *Affliction 1, (Advantage (IQ+1 (Nuisance Effect (Deals 2 damage afterwards) -5%, Nuisance Effect (Temporary mental disadvantage) -5%) [18]), 180%, Touch -30%, Breakable (Durability: DR 4, Machine, Can be repaired (Mechanic(Autoklast)) SM -8 or less) -30%, Can Be Stolen (Must be forcefully removed), -10%, Accessibility (Autoklast, welcher vorbereitet werden muss) -30%, Requires Skill Roll (Mechanic (Autoclast)) -10%, Trigger (Übertakter Octarin), -20%, Preparation Required (10 Minutes) -30%) [12]. Further levels increase the modified IQ nestled in the Affliction.*

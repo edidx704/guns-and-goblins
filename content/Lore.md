@@ -21,21 +21,21 @@ Die flüchtigen Brennstoffe. Energiedicht, hochentzündlich, in Untergraden verf
 - **Schweropaline**: Marine- und Lokomotivtreibstoff, Leucht- und Heizstoff
 - **Standardopaline**: Universaltreibstoff.
 - **Leichtopaline**: Hochleistungstreibstoff. Teuer und volatil.
-### Spectringase
-Schwach lumineszierendes Gasmischungen, welche sich am Kopf der Kolonnen sammeln. Im Vergleich zu den anderen Fraktionen sehr wenig verstanden und kommerziell noch nicht ausgereift.
+### Oktaringase
+Schwach lumineszierende Gasmischungen, welche sich am Kopf der Kolonnen sammeln. Im Vergleich zu den anderen Fraktionen sehr wenig verstanden und kommerziell noch nicht ausgereift.
 
-Dampfbehandlung bezeichnet das Verfahren, bei dem Materialien oder Verbindungen mit kondensiertem Spectringasen versetzt werden — mit Ergebnissen zwischen leicht ungewöhnlich und schlicht unerklärlich. Dampfgehärteter Stahl hält seine Schärfe länger und schimmert schwach. Dampfbehandelte Pigmente wechseln die Farbe. Dampfbehandelte Materialien sind die grundlegende Technologie für Automakülprothesen und Autoklasten.
+Dampfbehandlung bezeichnet das Verfahren, bei dem Materialien oder Verbindungen mit kondensiertem Oktaringas versetzt werden — mit Ergebnissen zwischen leicht ungewöhnlich und schlicht unerklärlich. Dampfgehärteter Stahl hält seine Schärfe länger und schimmert schwach. Dampfbehandelte Pigmente wechseln die Farbe. Dampfbehandelte Materialien sind die grundlegende Technologie für Automakülprothesen und Autoklasten.
 # Opal-Cola
 ![[opal_cola.png]]
 Multinationale Handelsgesellschaft mit Sitzen im Buckland und in der Mittelländischen Republik. Produziert Erfrischungsgetränke aus Irisolsacchariden und eine andere Vielzahl an Irisolprodukten. Steht unter Kritik aufgrund Beteidigung bei Konflikten in Südkahar.
-Neben Opal-Cola Klassik, Vanille und Kirsch gibt es auch noch Opal-Cola Petro, welches im Pinch als Opalinsubstitut verwendet werden kann. Die biologischen Folgen davon sind ungewiss, gilt aber laut Opal-Cola-finanzierten studien als absolut bedenklos.
+Neben Opal-Cola Klassik, Vanille und Kirsch gibt es auch noch Opal-Cola Petro, welches eine kleinen Anteil an Opalin als Zusatz hat. Die biologischen Folgen davon sind Ungewiss, gilt aber laut Opal-Cola-finanzierten studien als absolut bedenklos. Was aber tatsächlich der Fall ist, ist dass ein glas Opal-Cola Petro bei Bauchschmerzen und Verdauungsbeschwerden helfen kann. 
 # Pecos
 ![[peco.png]]
 Großer, gelber Laufvogel, eins der weitverbreitetsten Nutztiere der Welt. Wird benutzt als Reit-, Last-, Zug-, und gelegentlich auch als Lege- und Schlachttier.
 Sie haben ein ruhiges Gemüt aber trotzdem einen scharfen Schnabel und Klauen. Peco-omelett wird gern verwendet um Militärrationen aufzustocken.
 # Automaküleprothesen
 ![[automakül.png]]
-Automaküle/Makülprothesen sind Opalinbetriebene Metallprothesen und basieren auf Spektringastechnologie. Man sieht Automakülprothesen gelegentlich an Veteranen.
+Automaküle/Makülprothesen sind Opalinbetriebene Metallprothesen und basieren auf Oktaringastechnologie. Man sieht Automakülprothesen gelegentlich an Veteranen.
 Maküleprothesen verbrauchen ungefähr einen halben Liter Opalin ($0.2, 0.8 lb) pro tag.
 
 DM Note: Für coole Fähigkeiten und so weiter schau nach [[Miracles, Magic and Superscience!#Superscience]], falls Interesse besteht bau ich euch coole Superscience Fähigkeiten oder eingebaute Waffen für eure Prothesen :3
@@ -57,7 +57,7 @@ $4,000, 12 lbs.
 $8,000, 50 lbs
 # Autoklasten
 ![[Autoklast.png]]
-Ein Autoklast ist ein kleiner, humanoider Automat welcher auf Spectringastechnologie basiert. Autoklasten werden oftmals für simple Arbeiten eingesetzt. 
+Ein Autoklast ist ein kleiner, humanoider Automat welcher auf Oktaringastechnologie basiert. Autoklasten werden oftmals für simple Arbeiten eingesetzt. 
 Ein Autoklast verbraucht täglich 1.2 liter Opalin (\$0.5, 2lbs) und muss einmal monatlich mit Mechanic (Autoclast) instand gehalten werden und kostet $5000.
 ## Ally (Autoklast, Constantly, Minion) [6]
 Du bist im Besitz eines Autoklasten!
