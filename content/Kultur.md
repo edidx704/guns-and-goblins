@@ -78,7 +78,7 @@ Die Kultur des Menschlichen Steppenvolks reicht von Südmoranien bis nach Serika
 
 Uydar: Spoken (Native) [3]
 Serikisch: Written (Native) [3]
-Cultural Familiarity (Ostland) [0]
+Cultural Familiarity (Ostland) [1]
 # Kaharier
 Die dominante Kultur des kaharischen Reich, sie benutzen zwei Schriftformen, eine alphabetische und eine logographische. Ihre Kultur reicht von Kahar bis in die südliche eldarische Küste, der südlichen Mittellandküste (Ilia, Garand) und der westlichen belidischen Bergkette.
 
