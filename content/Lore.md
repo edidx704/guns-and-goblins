@@ -54,3 +54,31 @@ $4,000, 12 lbs.
 
 **Automakülebein (paar):** Ersetzt Legless [-30] und die assoziierte Basic Move reduction [varies] mit Basic Move reduced to 0 (Mitigator, Can be removed with difficulty, Brauch täglich Opalin, -60%) [varies]; Legless (Mitigator, Can be removed with difficulty, Brauch täglich Opalin, -60%) [-12]. 
 $8,000, 50 lbs
+# Autoklasten
+![[Autoklast.png]]
+Ein Autoklast ist ein kleiner, humanoider Automat welcher auf Spectringastechnologie basiert. Autoklasten werden oftmals für simple Arbeiten eingesetzt. 
+Ein Autoklast verbraucht täglich 1.2 liter Opalin ($0.5) und muss einmal monatlich mit Mechanic (Autoclast) instand gehalten werden und kostet $5000.
+## Ally (Autoklast, Constantly, Minion) [6]
+Du bist im Besitz eines Autoklasten!
+Ein Autoklast hat 100 punkte wovon 73 vom Autoclast template abgezogen werden. Verteil die restlichen 27 punkte auf advantages und skills.
+Falls dein Autoklast kaputt geht, kannst du dir einen neuen for free holen oder bekommst die 6 punkte zurück.
+## Autoklast Template:
+-73 points
+**Attribute Modifiers:** 
+* IQ-4 [-60]
+**Secondary Characteristic Modifiers:**
+* SM -2
+* Basic Move-1 [-5]
+**Advantages:**
+* Damage Resistance 4 [20]
+* Doesn't Breathe [20]
+* Pressure Support 2 [10]
+* Sealed [15]
+* Vacuum Support [5]
+* Reduced Consumption 2 [4]
+**Disadvantages:**
+* Maintenance (Mechanic(Autoclast), Number of People: 1, Monthly) [-2]
+* Restricted Diet (Opalin) [-20]
+**Metatraits:**
+* Machine [25]
+* Automaton [-85]
