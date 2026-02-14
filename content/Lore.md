@@ -25,6 +25,10 @@ Die flüchtigen Brennstoffe. Energiedicht, hochentzündlich, in Untergraden verf
 Schwach lumineszierendes Gas, das sich am Kopf der Kolonnen sammelt. Im Vergleich zu den anderen Fraktionen sehr wenig verstanden und kommerziell noch nicht ausgereift.
 
 Dampfbehandlung bezeichnet das Verfahren, bei dem Materialien oder Verbindungen mit kondensiertem Spectrin versetzt werden — mit Ergebnissen zwischen leicht ungewöhnlich und schlicht unerklärlich. Dampfgehärteter Stahl hält seine Schärfe länger und schimmert schwach. Dampfbehandelte Pigmente wechseln die Farbe. 
-## Opal Cola
+# Opal Cola
 ![[opal_cola.png]]
 Multinationale Handelsgesellschaft mit Sitzen im Buckland und in der Mittelländischen Republik. Produziert Erfrischungsgetränke aus Irisolsacchariden und eine andere Vielzahl an Irisolprodukten. Steht unter Kritik aufgrund Beteidigung bei Konflikten in Südkahar.
+# Pecos
+![[peco.png]]
+Großer, gelber Laufvogel, eins der weitverbreitetsten Nutztiere der Welt. Wird benutzt als Reit-, Last-, Zug-, und gelegentlich auch als Lege- und Schlachttier.
+Sie haben ein ruhiges Gemüt aber trotzdem einen scharfen Schnabel und Klauen. Peco-omelett wird gern verwendet um Militärrationen aufzustocken.
