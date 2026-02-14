@@ -27,8 +27,9 @@ Schwach lumineszierende Gasmischungen, welche sich am Kopf der Kolonnen sammeln.
 Dampfbehandlung bezeichnet das Verfahren, bei dem Materialien oder Verbindungen mit kondensiertem Oktaringas versetzt werden — mit Ergebnissen zwischen leicht ungewöhnlich und schlicht unerklärlich. Dampfgehärteter Stahl hält seine Schärfe länger und schimmert schwach. Dampfbehandelte Pigmente wechseln die Farbe. Dampfbehandelte Materialien sind die grundlegende Technologie für Automakülprothesen und Autoklasten.
 # Opal-Cola
 ![[opal_cola.png]]
+*Opal-Cola — Kraftstoff für die Seele*
 Multinationale Handelsgesellschaft mit Sitzen im Buckland und in der Mittelländischen Republik. Produziert Erfrischungsgetränke aus Irisolsacchariden und eine andere Vielzahl an Irisolprodukten. Steht unter Kritik aufgrund Beteidigung bei Konflikten in Südkahar.
-Neben Opal-Cola Klassik, Vanille und Kirsch gibt es auch noch Opal-Cola Petro, welches eine kleinen Anteil an Opalin als Zusatz hat. Die biologischen Folgen davon sind Ungewiss, gilt aber laut Opal-Cola-finanzierten studien als absolut bedenklos. Was aber tatsächlich der Fall ist, ist dass ein glas Opal-Cola Petro bei Bauchschmerzen und Verdauungsbeschwerden helfen kann. 
+Neben Opal-Cola Klassik, Vanille und Kirsch gibt es auch noch Opal-Cola Petro, welches eine kleinen Anteil an Opalin als Zusatz hat. Die biologischen Folgen davon sind Unklar, gilt aber laut Opal-Cola-finanzierten Studien als absolut bedenklos. Was aber tatsächlich der Fall ist, ist dass ein glas Opal-Cola Petro bei Bauchschmerzen und Verdauungsbeschwerden helfen kann. 
 # Pecos
 ![[peco.png]]
 Großer, gelber Laufvogel, eins der weitverbreitetsten Nutztiere der Welt. Wird benutzt als Reit-, Last-, Zug-, und gelegentlich auch als Lege- und Schlachttier.
