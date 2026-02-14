@@ -101,13 +101,14 @@ Diese Fähigkeit hat ein paar negative Effekte die eintreten, selbst wenn die W�
 * Der Autoklast erhält temporär ein Mental Disadvantage, würfel auf folgender Tabelle:
 
 | d   | Mental Disadvantage |
-| --- | ------------------- |
+| :-- | :------------------ |
 | 1   | Bad Temper (12)     |
 | 2   | Impulsiveness (12)  |
 | 3   | Cowardice (12)      |
 | 4   | Major Delusion      |
 | 5   | Lecherousness (12)  |
 | 6   | Low Self-Image      |
+
 Nachdem der Übertakter eingesetzt wurde, muss er erneut instand gehalten werden.
 
 Das spezifische Spectringas für den Übertakter kostet $50 pro charge.
