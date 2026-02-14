@@ -79,7 +79,7 @@ Superscience Advantages sind meist Gadgets und haben Gadget Limitations wie Brea
 ### Turbocharger
 12 pt/level
 Du bist im Besitz eines experimentellen Turboladers: der Radialring des Laders ist ungefähr 1/3 meter groß und muss an einem großen Motor befestigt werden.
-Du jagst mit Gewalt raffiniertes Astrium durch den Panzermotor! Würfel auf den relevanten Driving Skill:
+Du jagst mit Gewalt Leichtopalin durch den Panzermotor! Würfel auf den relevanten Driving Skill:
 Falls dies ein Erfolg ist, muss das Fahrzeug einen HT+Turbolader level Wurf machen:
 Die Maximal Landgeschwindigkeit des Fahrzeugs verdoppelt sich für 1 minute pro Margin of Success des HT Wurfs.
 Turbocharger hat ein paar negative Effekte die eintreten selbst wenn die Würfe Misserfolge waren:
@@ -87,7 +87,7 @@ Turbocharger hat ein paar negative Effekte die eintreten selbst wenn die Würfe 
 * Der Effekt ist unglaublich laut und deutlich Sichtbar, dramatische blaue Flammen speihen aus dem Auspuff
 * Die Innentemperatur des Fahrzeugs erhöht sich um 10 grad Celsius
 
-Raffiniertes Astrium kostet $60 pro charge.
+Leichtopalin kostet $60 pro charge.
 Der Turbolader muss 10 min vorbereitet werden um Korrekt zu funktionieren.
 
 *Statistics: Affliction 1 (Advantage (Enhanced Move 1), 200%, Touch, -30%, Breakable (Durability: DR 10, Machine, Can be repaired (mechanic), SM -4 (ungefähr 1/3 meter groß)), -30% , Can Be Stolen (Must be forcefully removed), -10%, Accessibility (Large Motors), -30%, Requires Skill Roll (Driving), -10%, Trigger (Refined Astrium), -20%, Nuisance Effect (Deals 1d damage to the Motor per use), -10%, Nuisance Effect (Sehr Laut, blaues Feuer speiht aus dem Auspuff), -5%, Nuisance Effect (Die Innentemperatur des Panzers steigt um 10 C), -5%, Preparation Required (10 minutes), -30%) [12]*
