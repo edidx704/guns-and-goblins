@@ -59,14 +59,35 @@ Optional: Du kannst CP ausgeben, um diese Nahrung real werden zu lassen: 1 CP en
 
 Einsetzbar nur ein mal pro Gamesession.
 *Statistics: Create Food/Drink 1 (Reduced Fatigue Cost 2, +40%, Requires Skill Roll (Religious Ritual), 0%, Takes Extra Time 2, -20%, Miracle, -10%, Accessibility (Requires spoken Prayer), -10%, Limited use (1/session), -40%) [12 pts]*
-### Walk on Water
-3 points
+### Traverse Water
+15 points/level
 
-Bete für 4 Sekunden und würfle auf Religious Ritual: 
-Du kannst jede flüssige Oberfläche überqueren, als wäre sie fest. Dies bietet keinen Schutz vor gefährlichen Flüssigkeiten – du erleidest zum Beispiel immer noch Schaden, wenn du ein Säurebecken überquerst. Dieses Wunder hält lange genug an, um das Gewässer zu überqueren.
+Bete für 4 Sekunden und würfle auf Religious Ritual:
+Ein Ziel, welches du Berührst (welches auch du selbst sein kannst!) muss einen ``HT + Traverse Water level`` Wurf machen: 
+Das Ziel kann jede flüssige Oberfläche überqueren, als wäre sie fest. Dies bietet keinen Schutz vor gefährlichen Flüssigkeiten – Das Ziel erleidet zum Beispiel immer noch Schaden, wenn es ein Säurebecken überquert. 
+Dieses Wunder hält 1 Minute pro margin of success des HT Wurfes des Zieles.
 
 Einsetzbar nur ein mal pro Gamesession.
-*Statistics: Walk on Liquid (Miracle, -10%, Requires Skill Roll (Religious Ritual), -10%, Takes Extra Time 3, -20%, Accessibility (Requires spoken Prayer), -10%, Limited use (1/session), -40%) [3 pts]*
+*Statistics: Affliction 1 (Advantage (Walk On Liquid), 150%, Based on Skill Roll (Religious Ritual), 20%, Touch, -30%, Miracle, -10%, Takes Extra Time 3, -30%, Accessibility (Requires spoken Prayer), -10%, Limited use (1/session), -40%) [15] additional levels increase Affliction.*
+
 # Magic
 Desweiteren gibt es Wahrsager, Hexen, etc.
 Falls Spieler solche Spielen wollen schau in GURPS Thaumatology, "Ritual Magic".
+# Superscience
+Passend für Erfinder und Verrückte Wissenschaftler.
+Superscience Advantages sind meist Gadgets und haben Gadget Limitations wie Breakable und Can be Stolen.
+### Turbocharger
+15 pt/level
+Du bist im Besitz eines experimentellen Turboladers: der Radialring des Laders ist ungefähr 1/3 meter groß und muss an einem großem Motor befestigt werden.
+Du jagst mit Gewalt raffiniertes Astrium durch den Panzermotor! Würfel auf den relevanten Driving Skill:
+Falls dies ein Erfolg ist, muss das Fahrzeug einen HT+Turbolader level Wurf machen:
+Die Maximal Landgeschwindigkeit des Fahrzeugs verdoppelt sich für 1 minute pro Margin of Success des HT Wurfs.
+Turbocharger hat ein paar negative Effekte, die Geschehen selbst wenn der Effekt fehlschlägt:
+* Es fügt 1d Schaden am Panzermotor zu
+* Der Effekt ist unglaublich laut und deutlich Sichtbar, dramatische blaue Flammen speihen aus dem Auspuff
+* Die Innentemperatur des Fahrzeugs erhöht sich um 10 grad Celsius
+
+Raffiniertes Astrium kostet $60 pro charge.
+Der Turbolader muss 10 min vorbereitet werden um Korrekt zu funktionieren.
+
+*Statistics: Affliction 1 (Advantage (Enhanced Move 1), 200%, Breakable (Durability: DR 10, Machine, Can be repaired (mechanic), SM -4 (ungefähr 1/3 meter groß)), -30% , Can Be Stolen (Must be forcefully removed), -10%, Accessibility (Large Motors), -30%, Requires Skill Roll (Driving), -10%, Trigger (Refined Astrium), -20%, Nuisance Effect (Deals 1d damage to the Motor per use), -10%, Nuisance Effect (Sehr Laut, blaues Feuer speiht aus dem Auspuff), -5%, Nuisance Effect (Die Innentemperatur des Panzers steigt um 10 C), -5%, Preparation Required (10 minutes), -30%) [15]*

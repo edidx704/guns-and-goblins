@@ -203,7 +203,8 @@ Es gibt, oder genauer gesagt gab, zwei Halbling Ethnizitäten, Die Buckland Halb
 * Helle bis leichtgebräunte Haut
 # Lamia
 ![[lamia.png]]
-Die Lamia haben ein sehr weiches Gemüt, jedoch hat das Leben ihnen ein hartes Los aufgedrückt. Sie müssen sachlich sein, wären aber lieber gern romantisch. Lamia lernen früh orale Traditionen von ihren Müttern, zu denen Sie bevorzugen ein Leben lang ein gutes Verhältnis zu pflegen. Lamia wertschätzen Kunst, Wissenschaft, Kultur, Geschichte, Mythen, Kommunen. Manchmal spielen Lamia gehässig in die Vorurteile der anderen Völker. Völker, welche sie besser kennen lernen, beschreiben sie als vorsichtig, kommunal, intim, melancholisch, manchmal hinterlistig, pragmatisch, zynisch.
+Die Lamia haben ein sehr weiches Gemüt, jedoch hat das Leben ihnen ein hartes Los aufgedrückt. Sie müssen sachlich sein, wären aber lieber gern romantisch. Lamia lernen früh orale Traditionen von ihren Müttern, zu denen Sie bevorzugen ein Leben lang ein gutes Verhältnis zu pflegen. Lamia wertschätzen Kunst, Wissenschaft, Kultur, Geschichte, Mythen, Kommunen. Manchmal spielen Lamia gehässig in die Vorurteile der anderen Völker. Völker, welche sie besser kennen lernen, beschreiben sie als vorsichtig, kommunal, intim, melancholisch, manchmal hinterlistig, pragmatisch, zynisch. 
+Lamia sind eine vollständig weibliche Spezies, sie benötigen andere Humanoide zur Fortpflanzung und zeugen nur weitere Lamia.
 
 47 pts
 Lamia sind um die 4m lang, mit einem torso von einem Meter und einem 3 Meter schweif.
