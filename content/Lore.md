@@ -27,4 +27,4 @@ Schwach lumineszierendes Gas, das sich am Kopf der Kolonnen sammelt. Im Vergleic
 Dampfbehandlung bezeichnet das Verfahren, bei dem Materialien oder Verbindungen mit kondensiertem Spectrin versetzt werden — mit Ergebnissen zwischen leicht ungewöhnlich und schlicht unerklärlich. Dampfgehärteter Stahl hält seine Schärfe länger und schimmert schwach. Dampfbehandelte Pigmente wechseln die Farbe. 
 ## Opal Cola
 ![[opal_cola.png]]
-Multinationale Handelsgesellschaft mit Sitzen im Buckland und in der Mittelländischen Republik. Produziert Erfrischungsgetränke aus Irisolsacchariden und eine andere Vielzahl an Irisolprodukten. Steht unter Kritik aufgrund Beteidigung bei Konflikten in Nordkahar.
+Multinationale Handelsgesellschaft mit Sitzen im Buckland und in der Mittelländischen Republik. Produziert Erfrischungsgetränke aus Irisolsacchariden und eine andere Vielzahl an Irisolprodukten. Steht unter Kritik aufgrund Beteidigung bei Konflikten in Südkahar.
