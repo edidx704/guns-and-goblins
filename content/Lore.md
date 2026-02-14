@@ -57,7 +57,7 @@ $8,000, 50 lbs
 # Autoklasten
 ![[Autoklast.png]]
 Ein Autoklast ist ein kleiner, humanoider Automat welcher auf Spectringastechnologie basiert. Autoklasten werden oftmals für simple Arbeiten eingesetzt. 
-Ein Autoklast verbraucht täglich 1.2 liter Opalin ($0.5, 2lbs) und muss einmal monatlich mit Mechanic (Autoclast) instand gehalten werden und kostet $5000.
+Ein Autoklast verbraucht täglich 1.2 liter Opalin (\$0.5, 2lbs) und muss einmal monatlich mit Mechanic (Autoclast) instand gehalten werden und kostet $5000.
 ## Ally (Autoklast, Constantly, Minion) [6]
 Du bist im Besitz eines Autoklasten!
 Ein Autoklast ist ein -50 ally und hat 23 punkte welche du auf Advantages und Skills verteilen kannst.
