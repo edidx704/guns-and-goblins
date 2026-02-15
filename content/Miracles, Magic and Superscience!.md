@@ -81,9 +81,10 @@ Superscience Advantages welche exotische Effekte haben benutzen [Oktarin](Lore#O
 * Trigger (Spezifisches Octarin, $50 pro charge), -20%
 
 "Normale" Gadgets (Wie z.B eine Waffe in einer Automaküleprothese) benutzen lediglich Breakable und Can be Stolen.
+Relevante Skills für Superscience sind Mechanic (Oktaringastechnologie) und Engineering (Oktaringastechnologie)
 ### Turbocharger
 10 pt/level
-Du bist im Besitz eines experimentellen Turboladers: der Radialring des Laders ist ungefähr 1/3 meter groß und muss an einem großen Motor befestigt werden, dies dauert 10 minuten und erfordert den relevanten Mechanic Skillwurf.
+Du bist im Besitz eines experimentellen Turboladers: der Radialring des Laders ist ungefähr 1/3 meter groß und muss an einem großen Motor befestigt werden, dies dauert 10 minuten und erfordert einen Mechanic (Oktaringastechnologie) Skillwurf.
 Du jagst mit Gewalt volatiles Octarin durch den Panzermotor!  Falls du den Turbolader einsetzt muss das Fahrzeug einen HT+Turbolader level Wurf machen:
 Die Maximal Landgeschwindigkeit des Fahrzeugs verdoppelt sich für 1 minute pro Margin of Success des HT Wurfs.
 Turbocharger hat ein paar negative Effekte die eintreten selbst wenn die Würfe Misserfolge waren:
@@ -94,11 +95,11 @@ Nachdem der Turbolader eingesetzt wurde, muss er erneut instand gehalten werden.
 
 Das spezifische Octarin Gas für den Turbocharger kostet $50 pro charge.
 
-*Statistics: Affliction 1 (Advantage (Enhanced Move (Nuisance Effect (Deals 1d damage to the Motor per use) -10%, Nuisance Effect (Sehr Laut, blaues Feuer speiht aus dem Auspuff), -5%, Nuisance Effect (Die Innentemperatur des Panzers steigt um 10 C), -5%) [16]) 160%, Touch -30%, Breakable (Durability: DR 10, can break down, SM -4 (ungefähr 1/3 meter groß)), -30%, Can Be Stolen (Must be forcefully removed), -10%, Accessibility (Large Motors) -30%, Requires Skill Roll (Mechanic), -10%, Trigger (Turbolader Octarin), -20%, Preparation Required (10 minutes), -30%) [10] additional levels increase Affliction.* 
+*Statistics: Affliction 1 (Advantage (Enhanced Move (Nuisance Effect (Deals 1d damage to the Motor per use) -10%, Nuisance Effect (Sehr Laut, blaues Feuer speiht aus dem Auspuff), -5%, Nuisance Effect (Die Innentemperatur des Panzers steigt um 10 C), -5%) [16]) 160%, Touch -30%, Breakable (Durability: DR 10, can break down, SM -4 (ungefähr 1/3 meter groß)), -30%, Can Be Stolen (Must be forcefully removed), -10%, Accessibility (Large Motors) -30%, Requires Skill Roll (Mechanic (Oktaringastechnologie)), -10%, Trigger (Turbolader Octarin), -20%, Preparation Required (10 minutes), -30%) [10] additional levels increase Affliction.* 
 ### Autoklast Akkumulatorübertakter
 12 pt for level 1, 18 pt per aditional level
 
-Du hast einen Akkumulatorübertakter welcher temporär dramatisch die mentalen Kapazitäten von Autoklasten erhöht. Das Modul ist 20cm groß, das Einsetzen am Hinterkopf erfordert einen Mechanic (Autoklast) wurf und nimmt 10 Minuten in Anspruch.
+Du hast einen Akkumulatorübertakter welcher temporär dramatisch die mentalen Kapazitäten von Autoklasten erhöht. Das Modul ist 20cm groß, das Einsetzen am Hinterkopf erfordert einen Mechanic (Oktaringastechnologie) Wurf und nimmt 10 Minuten in Anspruch.
 Wenn du den Übertakter aktivierst, muss der Autoklast einen HT-Wurf machen, der Autoklast bekommt ``1 x level + IQ`` für eine Minute pro Margin of Success des HT Wurfs.
 
 Diese Fähigkeit hat ein paar negative Effekte die eintreten, selbst wenn die Würfe Misserfolge waren:
@@ -118,7 +119,7 @@ Nachdem der Übertakter eingesetzt wurde, muss er erneut instand gehalten werden
 
 Das spezifische Octaringas für den Übertakter kostet $50 pro charge.
 
-*Statistics: Affliction 1, (Advantage (IQ+1 (Nuisance Effect (Deals 2 damage afterwards) -5%, Nuisance Effect (Temporary mental disadvantage) -5%) [18]), 180%, Touch -30%, Breakable (Durability: DR 4, Can break down, SM -8 or less) -30%, Can Be Stolen (Must be forcefully removed), -10%, Accessibility (Autoklast, welcher vorbereitet werden muss) -30%, Requires Skill Roll (Mechanic (Autoclast)) -10%, Trigger (Übertakter Octarin), -20%, Preparation Required (10 Minutes) -30%) [12]. Further levels increase the modified IQ nestled in the Affliction.*
+*Statistics: Affliction 1, (Advantage (IQ+1 (Nuisance Effect (Deals 2 damage afterwards) -5%, Nuisance Effect (Temporary mental disadvantage) -5%) [18]), 180%, Touch -30%, Breakable (Durability: DR 4, Can break down, SM -8 or less) -30%, Can Be Stolen (Must be forcefully removed), -10%, Accessibility (Autoklast, welcher vorbereitet werden muss) -30%, Requires Skill Roll (Mechanic (Oktaringastechnologie)) -10%, Trigger (Übertakter Octarin), -20%, Preparation Required (10 Minutes) -30%) [12]. Further levels increase the modified IQ nestled in the Affliction.*
 ### Automakülintegrierte Pistole
 15 pts
 
@@ -127,7 +128,7 @@ Die Statistiken der Pistole sind:
 **2d+2 pi, 100/1000, Acc 2, RoF 3, Shots 8+1(3), Rcl 2. Unreliable, Malfunctions on 16+.**
 Die Pistole nimmt 9x19mm Munition.
 
-Schaden an dem Mechanismus kann mit Mechanic (Automaküle) oder Armoury (Small Arms) repariert werden.
+Schaden an dem Mechanismus kann mit Mechanic (Oktaringastechnologie) oder Armoury (Small Arms) repariert werden.
 Die Waffe hat DR und HP wie die Automaküle selbst.
 
 *Statistics: Piercing Attack 2d+2 (Increased Range 10x, +30%, Rapid Fire 3, +50%, Extra Recoil 2,  -10%, Inaccurate -1, -5%, Unreliable (16), -5%, Limited use 9 (Slow Reload), -5%, Takes Extra Time 1, -10%, Breakable (DR 3-5, Can break down) -20%, Can Be Stolen (Must be forcefully removed), -10%) [15]*
