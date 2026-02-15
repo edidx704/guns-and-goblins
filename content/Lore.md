@@ -74,7 +74,7 @@ Ein Autoklast ist ein kleiner, humanoider Automat welcher auf Oktaringastechnolo
 Ein Autoklast verbraucht täglich 1.2 liter Opalin (\$0.5, 2lbs) und muss einmal monatlich mit **Mechanic (Oktaringastechnologie)** instand gehalten werden und kostet $5000.
 ## Ally (Autoklast, Constantly, Minion) [6]
 Du bist im Besitz eines Autoklasten!
-Ein Autoklast ist ein -25 ally und hat 35 punkte welche du auf Advantages und Skills verteilen kannst.
+Ein Autoklast ist ein -25 ally und hat 40 punkte welche du auf Advantages und Skills verteilen kannst.
 Falls dein Autoklast kaputt geht, kannst du dir einen neuen for free holen oder bekommst die 6 punkte zurück.
 ## Autoklast Template:
 -65 points
