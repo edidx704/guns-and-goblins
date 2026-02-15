@@ -128,7 +128,20 @@ Die Statistiken der Pistole sind:
 **2d+2 pi, 100/1000, Acc 2, RoF 3, Shots 8+1(3), Rcl 2. Unreliable, Malfunctions on 16+.**
 Die Pistole nimmt 9x19mm Munition.
 
-Schaden an dem Mechanismus kann mit Mechanic (Oktaringastechnologie) oder Armoury (Small Arms) repariert werden.
-Die Waffe hat DR und HP wie die Automaküle selbst.
+Schaden an dem Mechanismus kann mit Mechanic (Oktaringastechnologie) oder Armoury (Small Arms) repariert werden. Die Waffe hat DR und HP wie die Automaküle selbst.
 
 *Statistics: Piercing Attack 2d+2 (Increased Range 10x, +30%, Rapid Fire 3, +50%, Extra Recoil 2,  -10%, Inaccurate -1, -5%, Unreliable (16), -5%, Limited use 9 (Slow Reload), -5%, Takes Extra Time 1, -10%, Breakable (DR 3-5, Can break down) -20%, Can Be Stolen (Must be forcefully removed), -10%) [15]*
+### Automakülintegriertes Oktarinschwert
+11 pts
+
+Du hast ein Energieschwert integriert in deiner Armprothese!  Das Schwert zu benutzen erfordert Oktarin im Wert von $50 und 10 minütige Vorbereitung.
+
+Die Stats von dem Schwert sind:
+*FORCE SWORD (DX-5 or any sword skill at -3):
+Oktarin Plasmaschwert, 3d(5) burn, reach 1, parry 0*
+
+Wenn du das Schwert mit einem ready maneuver aktivierst fährt es grell leuchtend aus deinem Arm: Es hält an für eine Minute, danach muss der Mechanismus erneut 10 minuten lang vorbereitet werden. Nach der Benutzung des Schwertes glüht deine Prothese für 10 minuten, sie erleidet 1d burn Schaden und ist so heiß, dass jede Person in close range zu dir 1d burn damage pro sekunde erleidet. In dieser Zeit ist die Hand der protese funktionsunfähig. Sie kann nicht abgekühlt werden, ohne sie weiter zu beschädigen und muss die 10 minuten lang auskühlen.
+
+Schaden an dem Mechanismus kann mit Mechanic (Oktaringastechnologie) repariert werden. Die Waffe hat DR und HP wie die Automaküle selbst.
+
+*Statistics: Primary: Burning Attack 3d (Armor divisor 5, 150%, Melee Attack (1), -25%, Trigger (Plasmaschwert Octarin), -20%, Preparation Required (10 Minutes), -30%, Maximum Duration (Up to 1 minute) -65%, Breakable (DR 3-5, Can break down) -20%, Can Be Stolen (Must be forcefully removed), -10%, Nuisance (1d burn damage to the prosthesis afterwards), -10%, Aftermath (One Hand) 7%) [10], Secondary: Burning Attack 1d  (Aura + 80%, Accessibility: Only while limb is heated, -10%, Melee Attack (C) -30%, Always On (Dangerous) -40%, Minimum Duration (10 minutes) 0%, Breakable (DR 3-5, Can break down) -20%, Can Be Stolen (Must be forcefully removed), -10% [1]*
