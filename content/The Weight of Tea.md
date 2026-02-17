@@ -1,4 +1,4 @@
-<div><iframe width="300" height="60" src="https://vocaroo.com/embed/1aOVPeLh7p9Q?autoplay=0" frameborder="0" allow="autoplay"></iframe><br><a href="https://voca.ro/1aOVPeLh7p9Q" title="Vocaroo-Sprachaufzeichnung" target="_blank"></a></div>
+<div><iframe width="100%" height="60" src="https://vocaroo.com/embed/1aOVPeLh7p9Q?autoplay=0" frameborder="0" allow="autoplay"></iframe><br><a href="https://voca.ro/1aOVPeLh7p9Q" title="Vocaroo-Sprachaufzeichnung" target="_blank"></a></div>
 
 The Opaline lamp hissed in the corner, soft and irregular, like breathing.
 
