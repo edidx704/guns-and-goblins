@@ -1,4 +1,5 @@
-![[the_weight_of_tea_audiobook.mp3]]
+<div><iframe width="300" height="60" src="https://vocaroo.com/embed/1aOVPeLh7p9Q?autoplay=0" frameborder="0" allow="autoplay"></iframe><br><a href="https://voca.ro/1aOVPeLh7p9Q" title="Vocaroo-Sprachaufzeichnung" target="_blank"></a></div>
+
 The Opaline lamp hissed in the corner, soft and irregular, like breathing.
 
 Mira had turned it low—heavy-grade fuel wasn't cheap anymore, not since the convoys started running through. She'd mentioned the price when he arrived, doubling in three days, in that way people do when they need to fill silence with something ordinary.
