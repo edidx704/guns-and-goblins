@@ -1,4 +1,6 @@
-<div style="filter: grayscale(100%) brightness(0.9);"> <iframe width="100%" height="60" src="https://vocaroo.com/embed/1aOVPeLh7p9Q?autoplay=0" frameborder="0" allow="autoplay"></iframe> </div> <a href="https://voca.ro/1aOVPeLh7p9Q" title="Vocaroo-Sprachaufzeichnung" target="_blank"></a>
+<div style="filter: grayscale(100%) brightness(0.9);"> <iframe width="100%" height="60" src="https://vocaroo.com/embed/1aOVPeLh7p9Q?autoplay=0" frameborder="0" allow="autoplay"></iframe> </div> 
+
+---
 The Opaline lamp hissed in the corner, soft and irregular, like breathing.
 
 Mira had turned it low—heavy-grade fuel wasn't cheap anymore, not since the convoys started running through. She'd mentioned the price when he arrived, doubling in three days, in that way people do when they need to fill silence with something ordinary.
