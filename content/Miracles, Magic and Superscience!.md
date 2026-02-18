@@ -140,7 +140,7 @@ Die Stats von dem Schwert sind:
 *FORCE SWORD (DX-5 or any sword skill at -3):
 Oktarin Plasmaschwert, 3d(5) burn, reach 1, parry 0*
 
-Wenn du das Schwert mit einem ready maneuver aktivierst fährt es grell leuchtend aus deinem Arm: Es hält an für eine Minute, danach muss der Mechanismus erneut 10 minuten lang vorbereitet werden. Nach der Benutzung des Schwertes glüht deine Prothese für 10 minuten, sie erleidet 1d burn Schaden. Die Prothese ist so heiß, dass jede Person in close range zu dir 1d burn damage pro sekunde erleidet. In dieser Zeit ist die Hand der Prothese funktionsunfähig. Sie kann nicht manuell abgekühlt werden, ohne sie weiter zu beschädigen und muss die 10 minuten lang auskühlen.
+Wenn du das Schwert mit einem ready maneuver aktivierst fährt es grell leuchtend aus deinem Arm: Es hält an für eine Minute, danach muss der Mechanismus erneut 10 minuten lang vorbereitet werden. Nach der Benutzung des Schwertes glüht deine Prothese für 10 minuten, sie erleidet 1d burn Schaden. Die Prothese ist so heiß, dass jede Person in close range zu dir 1d burn damage pro sekunde erleidet. In der Abkühlzeit ist die Hand der Prothese funktionsunfähig. Sie kann nicht manuell abgekühlt werden, ohne sie weiter zu beschädigen und muss die 10 minuten lang auskühlen.
 
 Schaden an dem Mechanismus kann mit Mechanic (Oktaringastechnologie) repariert werden. Die Waffe hat DR und HP wie die Automaküle selbst.
 
