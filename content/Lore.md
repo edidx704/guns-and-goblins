@@ -58,6 +58,10 @@ $4,000, 12 lbs.
 **Automakülebein (paar):** Ersetzt Legless [-30] und die assoziierte Basic Move reduction [varies] mit Basic Move reduced to 0 (Mitigator, Can be removed with difficulty, Brauch täglich Opalin, -60%) [varies]; Legless (Mitigator, Can be removed with difficulty, Brauch täglich Opalin, -60%) [-12]. 
 $8,000, 50 lbs
 
+**Automakülauge:** Ersetzt One Eye [-15] mit One Eye (Mitigator, Can be removed with difficulty, Brauch täglich Opalin, -60%) **[-6]**. Das Auge wiegt 1 lb, hat 2 HP und DR 4. $3,000, 1 lb.
+
+**Automakülaugen (Paar):** Ersetzt Blindness [-50] mit Blindness (Mitigator, Can be removed with difficulty, Brauch täglich Opalin, -60%) **[-20]**. Das Paar wiegt 2 lbs, hat 2 HP (pro Auge) und DR 4. $6,000, 2 lbs.
+
 folgende tabelle ist für SM-2 charaktere (Goblins, Halblinge, kleines Biestfolk):
 
 
@@ -67,6 +71,8 @@ folgende tabelle ist für SM-2 charaktere (Goblins, Halblinge, kleines Biestfolk
 | **Automakülehand** | 1.2 lbs    | 5         | 3      | $2,000   |
 | **Automakülebein** | 10 lbs     | 10        | 3      | $4,000   |
 | **Bein (Paar)**    | 20 lbs     | 10 (each) | 3      | $8,000   |
+| **Automakülauge**  | 0.4 lbs    | 1         | 3      | $3,000   |
+| **Auge (Paar)**    | 0.8 lbs    | 1 (each)  | 3      | $6,000   |
 
 # Autoklasten
 ![[Autoklast.png]]

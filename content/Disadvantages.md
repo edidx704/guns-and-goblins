@@ -1,7 +1,7 @@
 Einige der Vorgeschlagenen Disadvantages sind mit 💀 markiert. dies Bedeutet:
 Wenn Spieler diese Disadvantage nehmen wollen, dann nur unter Absprache mit der Gruppe bei Session 0 unter Einbetracht von Regel Eins. (PCS LIEBEN SICH GEGENSEITIG!!!)
 ## Pflicht
-Diese Disadvanteges müssen die PCs haben. Zählt nicht zum Punktelimit.
+Diese Disadvanteges müssen die PCs haben. Zählt nicht zum Punktelimit. sind im template miteinbegriffen:
 ### Duty (Estrisches Partisanheer, 1. Panzerzug) [-20]
 Du bist ein Mitglied des ersten Panzerzugs des Estrischen Partisanheeres. 
 Dies zählt als Almost all the time/Always + Extremely Hazardous.
