@@ -91,7 +91,7 @@ Meist Rank 0.
 
 * **Attributes:** ST +2 [20]
 * **Skill Boosts:** 
-	* Fast-Draw (Tank Shells) (ST/E) [1] - 14
+	* Fast-Draw (Tank Shells) (ST/E) [1] - 13
 # Ranks:
 ### Mannschaften 
 Das sind die klassischen Soldaten, die die Arbeit machen (Laden, Funken, Fahren).
