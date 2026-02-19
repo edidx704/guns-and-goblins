@@ -3,21 +3,21 @@
 * **Duty (Estrisches Partisanheer, 1. Panzerzug)** (15 or less; Hazardous) [-20] 
 * **Sense of Duty (Panzerbesatzung / Kameraden)** [-5]
 ### Basic Skills [19]
-| Skill                     | Type | Pts | Level |
-| :------------------------ | :--- | :-- | :---- |
-| Armoury (Vehicular Armor) | IQ/A | [2] | 10    |
-| Driving (Tracked)         | DX/A | [2] | 10    |
-| Electronics Op (Comm)     | IQ/A | [1] | 9     |
-| Fast-Draw (Tank Shells)   | ST/E | [1] | 10    |
-| First Aid                 | IQ/E | [1] | 10    |
-| Gunner (Cannon)           | DX/E | [1] | 10    |
-| Gunner (Machine Gun)      | DX/E | [1] | 10    |
-| Guns (Rifle)              | DX/E | [1] | 10    |
-| Guns (SMG)                | DX/E | [1] | 10    |
-| Hiking                    | HT/A | [1] | 9     |
-| Knife                     | DX/E | [1] | 10    |
-| Mechanic (Tracked)        | IQ/A | [2] | 10    |
-| Soldier                   | IQ/A | [8] | 12    |
+| Skill                        | Type | Pts | Level |
+| :--------------------------- | :--- | :-- | :---- |
+| Armoury (Vehicular Armor)    | IQ/A | [2] | 10    |
+| Driving (Tracked)            | DX/A | [2] | 10    |
+| Electronics Op (Comm)        | IQ/A | [1] | 9     |
+| Fast-Draw (Tank Shells)**¹** | ST/E | [1] | 10    |
+| First Aid                    | IQ/E | [1] | 10    |
+| Gunner (Cannon)              | DX/E | [1] | 10    |
+| Gunner (Machine Gun)         | DX/E | [1] | 10    |
+| Guns (Rifle)                 | DX/E | [1] | 10    |
+| Guns (SMG)                   | DX/E | [1] | 10    |
+| Hiking                       | HT/A | [1] | 9     |
+| Knife                        | DX/E | [1] | 10    |
+| Mechanic (Tracked)           | IQ/A | [2] | 10    |
+| Soldier                      | IQ/A | [8] | 12    |
 
 ### Sekundäre Skills [10]
 | Skill | Type | Pts | Level |
@@ -91,7 +91,7 @@ Meist Rank 0.
 
 * **Attributes:** ST +2 [20]
 * **Skill Boosts:** 
-	* Fast-Draw (Tank Shells) (ST/E) [1] - 13
+	* Fast-Draw (Tank Shells)**¹** (ST/E) [1] - 13
 # Ranks:
 ### Mannschaften 
 Das sind die klassischen Soldaten, die die Arbeit machen (Laden, Funken, Fahren).
@@ -107,3 +107,21 @@ Diese Männer leiten die Panzer oder sind hochspezialisierte Fachkräfte.
 ### Offiziere
 - **Leutnant / Oberleutnant:** Der Anführer eines **Panzerzugs** (ca. 4–5 Panzer). Er sitzt selbst als Kommandant in einem der Panzer. (Rank 4 [20])
 - **Hauptmann:** Der Chef einer Panzerkompanie (ca. 14–22 Panzer). (Rank 5 [25])
+
+# Foot-note: Fast-Draw (Tank Shells)
+Custom skill!
+Funktioniert wie Fast-Draw (Ammo), aber ist ST basiert.
+
+Reduces the time required to reload Tank Shells. Your margin of success determines how much time you shave off reloading. Failure means you drop the Shell. 
+On a critical failure Roll on this table:
+
+| **Roll** | **Effect**                                                                                                                                                                                  |
+| -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **1**    | You drop the shell. It isn't damaged, but it's awkward to retrieve from the floor; it takes **2d seconds** of heavy lifting before you can try loading again.                               |
+| **2**    | You fumble the pull and the shell jams sideways in the ready-rack. You (or a crewmate) must succeed on a **ST-4** or **Mechanic** roll to pry it loose before any more shells can be drawn. |
+| **3**    | The shell slams into the breech rim, deforming the casing. This shell is **un-loadable**; if you try to force it, you’ll jam the gun (requires a repair roll).                              |
+| **4**    | The shell hits the floor—specifically, your foot. Take **1d-3 crushing damage** to the foot and make a **HT roll** to avoid being physically stunned by the pain.                           |
+| **5**    | You lose your footing, dropping the shell and stumbling into the secondary ammo storage. **$1d$ shells** spill out; the floor is now "Bad Footing" and the noise is deafening.              |
+| **6**    | Your momentum carries your arm into the steel gun assembly. Take **1d-2 crushing damage** to your arm and drop the shell; your arm is numb (crippled) for $1d$ turns.                       |
+
+*Modifiers: Combat Reflexes (p. 43) gives +1 to all Fast-Draw specialties; Ham-Fisted (p. 138) gives -3 per level.*
