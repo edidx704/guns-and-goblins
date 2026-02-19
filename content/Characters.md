@@ -17,7 +17,7 @@
 | Hiking                    | HT/A | [1] | 9     |
 | Knife                     | DX/E | [1] | 10    |
 | Mechanic (Tracked)        | IQ/A | [2] | 10    |
-| Soldier                   | IQ/A | [8] | 13    |
+| Soldier                   | IQ/A | [8] | 12    |
 
 ### Sekundäre Skills [10]
 | Skill | Type | Pts | Level |
