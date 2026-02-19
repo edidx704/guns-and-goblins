@@ -55,7 +55,7 @@
 * **Explosives (EOD)** (IQ/A)
 
 # Lenses
-## Panzerkommandant [+43 Points]
+## Panzerkommandant [+41 Points]
 Der Leiter des Panzers. Er trifft die taktischen Entscheidungen, führt die Besatzung über Bordfunk, hält Kontakt zur Führung und weist Ziele zu.
 Mindestens Military Rank 2 [10].
 
