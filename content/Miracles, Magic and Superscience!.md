@@ -14,8 +14,8 @@ Alle Powers haben üblicherweise die Folgenden modifier:
 * Emergencies only, (-30%), wenn passend
 * Immer Limited Use (1/session): -40%
 ## Divinity
-10/level
-Funktioniert wie ein normales Power Talent, maximum level 4, zusätzlich ermöglicht es dem Charakter Gegenstände zu segnen und Relikte zu erstellen. Dazu mehr wenn Spieler actually Interesse an solchen Mechaniken haben.
+15/level
+Funktioniert wie ein normales Power Talent, maximum level 4, zusätzlich ermöglicht es dem Charakter Gegenstände zu segnen und Relikte zu erstellen. 
 ## Beispielfähigkeiten
 ### Holy Lance
 40 pts/level
