@@ -1,6 +1,6 @@
 # Panzerbesatzung Grundausstattung (TL6)
 
-$3,108, 19.83 lbs.
+$3,148, 22.43 lbs.
 
 Diese Ausrüstung deckt das Nötigste für ein Panzerbesatzungsmitglied ab, das in der estrischen Resistenz operiert. Alle Besatzungsmitglieder sind im Umgang mit einer Maschinenpistole zur persönlichen Verteidigung außerhalb des Fahrzeugs trainiert, und besitzen zusätzlich eine Seitenwaffe als Reserve. Die Suomi KP/31 ist die heimische Waffe der Wahl — teuer, aber zuverlässig, mit einem massiven 70-Schuss-Trommelmagazin. Die erbeutete TT-33 Pistole ist im Feld weit verbreitet und nutzt die reichlich vorhandene Moran-Munition. Ein Lederhelm bietet etwas Schutz ohne die Masse eines Stahlhelms.
 
@@ -15,6 +15,7 @@ Diese Ausrüstung deckt das Nötigste für ein Panzerbesatzungsmitglied ab, das 
 - **2× TT-33 Magazine** (p. HT100) [Webbing]. 16 rounds total. 0.2 lb. $52
 - **24× 7.62×25mm Tokarev** (p. HT156) [Magazines]. 0.58 lb. included
 - **Trench Knife** (p. HT206) [Belt]. sw-2 cut, thr imp. 0.5 lb. $45
+- **2× Stielhandgranate 24** (p. HT191) [Belt]. 5d cr ex each. Fuse 4-5. 2.6 lbs. $40
 
 ---
 
@@ -57,7 +58,7 @@ Diese Ausrüstung deckt das Nötigste für ein Panzerbesatzungsmitglied ab, das 
 
 ## Vier-Mann-Besatzungspaket (TL6)
 
-$12,432, 79.32 lbs.
+$12,592, 89.72 lbs.
 
 Gesamtkosten und Gewicht für eine vollständige vierköpfige Panzerbesatzung.
 
