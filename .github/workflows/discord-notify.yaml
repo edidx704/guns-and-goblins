@@ -24,12 +24,10 @@ jobs:
           if [ -z "$CHANGED" ]; then
             echo "files=" >> $GITHUB_OUTPUT
           else
-            URLS=""
-            while IFS= read -r file; do
-              page=$(echo "$file" | sed 's|^content/||' | sed 's|\.md$||')
-              URLS="${URLS}• [$page](https://guns-and-goblins.pages.dev/${page})\n"
-            done <<< "$CHANGED"
-            echo "files=${URLS%??}" >> $GITHUB_OUTPUT
+            # Just pass the raw file paths, Python will handle URL encoding
+            echo "files<<EOF" >> $GITHUB_OUTPUT
+            echo "$CHANGED" >> $GITHUB_OUTPUT
+            echo "EOF" >> $GITHUB_OUTPUT
           fi
 
       - name: Notify Discord
@@ -44,17 +42,32 @@ jobs:
           import os
           import urllib.request
           import urllib.error
+          import urllib.parse
           from datetime import datetime, timezone
 
           webhook_url = os.environ.get('WEBHOOK_URL', '').strip()
           role_id = os.environ.get('ROLE_ID', '').strip()
-          files = os.environ.get('CHANGED_FILES', '')
+          raw_files = os.environ.get('CHANGED_FILES', '')
           commit_msg = os.environ.get('COMMIT_MSG', 'Content updated')[:50]
 
+          # Build the file list with proper URL encoding
+          if raw_files:
+            file_links = []
+            for file in raw_files.strip().split('\n'):
+              if file:
+                # Remove content/ prefix and .md suffix
+                page = file.replace('content/', '').replace('.md', '')
+                # URL encode the page name
+                encoded_page = urllib.parse.quote(page)
+                file_links.append(f"• [{page}](https://guns-and-goblins.pages.dev/{encoded_page})")
+            files_field = '\n'.join(file_links)
+          else:
+            files_field = ''
+
           fields = [
-            {"name": "Updated Pages", "value": files, "inline": False},
+            {"name": "Updated Pages", "value": files_field, "inline": False},
             {"name": "Site", "value": "[guns-and-goblins.pages.dev](https://guns-and-goblins.pages.dev/)", "inline": True}
-          ] if files else [
+          ] if files_field else [
             {"name": "Site", "value": "[guns-and-goblins.pages.dev](https://guns-and-goblins.pages.dev/)", "inline": False}
           ]
 
