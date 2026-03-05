@@ -1,2 +1,2 @@
-yahoo!~~~ :33
+yahoo~~ :3
 ![[slimey.png]]

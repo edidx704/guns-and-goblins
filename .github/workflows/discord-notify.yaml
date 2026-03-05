@@ -51,16 +51,16 @@ jobs:
           raw_files = os.environ.get('CHANGED_FILES', '')
           commit_msg = os.environ.get('COMMIT_MSG', 'Content updated')[:50]
 
-          # Build the file list with proper URL encoding
+          # Build the file list with Quartz-style URL formatting
           if raw_files:
             file_links = []
             for file in raw_files.strip().split('\n'):
               if file:
                 # Remove content/ prefix and .md suffix
                 page = file.replace('content/', '').replace('.md', '')
-                # URL encode the page name
-                encoded_page = urllib.parse.quote(page)
-                file_links.append(f"• [{page}](https://guns-and-goblins.pages.dev/{encoded_page})")
+                # Quartz slug format: spaces -> dashes, keep other chars
+                slug = page.replace(' ', '-')
+                file_links.append(f"• [{page}](https://guns-and-goblins.pages.dev/{slug})")
             files_field = '\n'.join(file_links)
           else:
             files_field = ''
