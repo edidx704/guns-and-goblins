@@ -1,0 +1,96 @@
+name: Discord Notification
+
+on:
+  push:
+    branches:
+      - v4
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Wait for Cloudflare build
+        run: sleep 180
+
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+
+      - name: Get changed files
+        id: changed
+        run: |
+          # Get list of changed .md files in content folder
+          CHANGED=$(git diff --name-only HEAD~1 HEAD -- 'content/*.md' 2>/dev/null | head -5 || true)
+
+          if [ -z "$CHANGED" ]; then
+            echo "files=" >> $GITHUB_OUTPUT
+            echo "count=0" >> $GITHUB_OUTPUT
+          else
+            # Convert file paths to markdown links
+            URLS=""
+            while IFS= read -r file; do
+              # Remove content/ prefix and .md suffix
+              page=$(echo "$file" | sed 's|^content/||' | sed 's|\.md$||')
+              URLS="${URLS}• [$page](https://guns-and-goblins.pages.dev/${page})\n"
+            done <<< "$CHANGED"
+            echo "files=${URLS%??}" >> $GITHUB_OUTPUT  # Remove trailing newline
+            echo "count=$(echo "$CHANGED" | wc -l)" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Build and send notification
+        env:
+          WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          ROLE_ID: ${{ secrets.DISCORD_ROLE_ID }}
+          CHANGED_FILES: ${{ steps.changed.outputs.files }}
+          COMMIT_MSG: ${{ github.event.head_commit.message }}
+        run: |
+          # Build the JSON payload using Python (more reliable for complex JSON)
+          python3 << 'PYTHON'
+          import json
+          import os
+          from datetime import datetime
+
+          files = os.environ.get('CHANGED_FILES', '')
+          commit_msg = os.environ.get('COMMIT_MSG', 'Content updated')
+
+          if files:
+              fields = [
+                  {"name": "Updated Pages", "value": files, "inline": False},
+                  {"name": "Site", "value": "[guns-and-goblins.pages.dev](https://guns-and-goblins.pages.dev/)", "inline": True}
+              ]
+          else:
+              fields = [
+                  {"name": "Site", "value": "[guns-and-goblins.pages.dev](https://guns-and-goblins.pages.dev/)", "inline": False}
+              ]
+
+          payload = {
+              "username": "Guns & Goblins",
+              "avatar_url": "https://guns-and-goblins.pages.dev/static/icon.png",
+              "content": f"<@&{os.environ['ROLE_ID']}> 📜 New lore content published!",
+              "embeds": [{
+                  "title": "Guns & Goblins - Lore Updated",
+                  "url": "https://guns-and-goblins.pages.dev/",
+                  "color": 3447003,
+                  "fields": fields,
+                  "footer": {"text": commit_msg[:50]},  # Truncate long commit messages
+                  "timestamp": datetime.utcnow().isoformat() + "Z"
+              }]
+          }
+
+          import urllib.request
+          import urllib.error
+
+          req = urllib.request.Request(
+              os.environ['WEBHOOK_URL'],
+              data=json.dumps(payload).encode('utf-8'),
+              headers={'Content-Type': 'application/json'}
+          )
+
+          try:
+              urllib.request.urlopen(req)
+              print("Discord notification sent!")
+          except urllib.error.HTTPError as e:
+              print(f"Failed to send notification: {e.code}")
+              raise
+          PYTHON
