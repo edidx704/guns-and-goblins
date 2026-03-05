@@ -45,11 +45,16 @@ jobs:
           CHANGED_FILES: ${{ steps.changed.outputs.files }}
           COMMIT_MSG: ${{ github.event.head_commit.message }}
         run: |
-          # Build the JSON payload using Python (more reliable for complex JSON)
           python3 << 'PYTHON'
           import json
           import os
-          from datetime import datetime
+          import urllib.request
+          import urllib.error
+          from datetime import datetime, timezone
+
+          # Strip whitespace from secrets (GitHub sometimes adds trailing newlines)
+          webhook_url = os.environ.get('WEBHOOK_URL', '').strip()
+          role_id = os.environ.get('ROLE_ID', '').strip()
 
           files = os.environ.get('CHANGED_FILES', '')
           commit_msg = os.environ.get('COMMIT_MSG', 'Content updated')
@@ -67,22 +72,19 @@ jobs:
           payload = {
               "username": "Guns & Goblins",
               "avatar_url": "https://guns-and-goblins.pages.dev/static/icon.png",
-              "content": f"<@&{os.environ['ROLE_ID']}> 📜 New lore content published!",
+              "content": f"<@&{role_id}> 📜 New lore content published!",
               "embeds": [{
                   "title": "Guns & Goblins - Lore Updated",
                   "url": "https://guns-and-goblins.pages.dev/",
                   "color": 3447003,
                   "fields": fields,
-                  "footer": {"text": commit_msg[:50]},  # Truncate long commit messages
-                  "timestamp": datetime.utcnow().isoformat() + "Z"
+                  "footer": {"text": commit_msg[:50]},
+                  "timestamp": datetime.now(timezone.utc).isoformat().replace('+00:00', 'Z')
               }]
           }
 
-          import urllib.request
-          import urllib.error
-
           req = urllib.request.Request(
-              os.environ['WEBHOOK_URL'],
+              webhook_url,
               data=json.dumps(payload).encode('utf-8'),
               headers={'Content-Type': 'application/json'}
           )
@@ -92,5 +94,7 @@ jobs:
               print("Discord notification sent!")
           except urllib.error.HTTPError as e:
               print(f"Failed to send notification: {e.code}")
+              body = e.read().decode('utf-8')
+              print(f"Response: {body}")
               raise
           PYTHON
