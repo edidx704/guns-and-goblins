@@ -20,25 +20,19 @@ jobs:
       - name: Get changed files
         id: changed
         run: |
-          # Get list of changed .md files in content folder
           CHANGED=$(git diff --name-only HEAD~1 HEAD -- 'content/*.md' 2>/dev/null | head -5 || true)
-
           if [ -z "$CHANGED" ]; then
             echo "files=" >> $GITHUB_OUTPUT
-            echo "count=0" >> $GITHUB_OUTPUT
           else
-            # Convert file paths to markdown links
             URLS=""
             while IFS= read -r file; do
-              # Remove content/ prefix and .md suffix
               page=$(echo "$file" | sed 's|^content/||' | sed 's|\.md$||')
               URLS="${URLS}• [$page](https://guns-and-goblins.pages.dev/${page})\n"
             done <<< "$CHANGED"
-            echo "files=${URLS%??}" >> $GITHUB_OUTPUT  # Remove trailing newline
-            echo "count=$(echo "$CHANGED" | wc -l)" >> $GITHUB_OUTPUT
+            echo "files=${URLS%??}" >> $GITHUB_OUTPUT
           fi
 
-      - name: Build and send notification
+      - name: Notify Discord
         env:
           WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
           ROLE_ID: ${{ secrets.DISCORD_ROLE_ID }}
@@ -52,49 +46,44 @@ jobs:
           import urllib.error
           from datetime import datetime, timezone
 
-          # Strip whitespace from secrets (GitHub sometimes adds trailing newlines)
           webhook_url = os.environ.get('WEBHOOK_URL', '').strip()
           role_id = os.environ.get('ROLE_ID', '').strip()
-
           files = os.environ.get('CHANGED_FILES', '')
-          commit_msg = os.environ.get('COMMIT_MSG', 'Content updated')
+          commit_msg = os.environ.get('COMMIT_MSG', 'Content updated')[:50]
 
-          if files:
-              fields = [
-                  {"name": "Updated Pages", "value": files, "inline": False},
-                  {"name": "Site", "value": "[guns-and-goblins.pages.dev](https://guns-and-goblins.pages.dev/)", "inline": True}
-              ]
-          else:
-              fields = [
-                  {"name": "Site", "value": "[guns-and-goblins.pages.dev](https://guns-and-goblins.pages.dev/)", "inline": False}
-              ]
+          fields = [
+            {"name": "Updated Pages", "value": files, "inline": False},
+            {"name": "Site", "value": "[guns-and-goblins.pages.dev](https://guns-and-goblins.pages.dev/)", "inline": True}
+          ] if files else [
+            {"name": "Site", "value": "[guns-and-goblins.pages.dev](https://guns-and-goblins.pages.dev/)", "inline": False}
+          ]
 
           payload = {
-              "username": "Guns & Goblins",
-              "avatar_url": "https://guns-and-goblins.pages.dev/static/icon.png",
-              "content": f"<@&{role_id}> 📜 New lore content published!",
-              "embeds": [{
-                  "title": "Guns & Goblins - Lore Updated",
-                  "url": "https://guns-and-goblins.pages.dev/",
-                  "color": 3447003,
-                  "fields": fields,
-                  "footer": {"text": commit_msg[:50]},
-                  "timestamp": datetime.now(timezone.utc).isoformat().replace('+00:00', 'Z')
-              }]
+            "username": "Guns & Goblins",
+            "content": f"<@&{role_id}> 📜 New lore content published!",
+            "embeds": [{
+              "title": "Guns & Goblins - Lore Updated",
+              "url": "https://guns-and-goblins.pages.dev/",
+              "color": 3447003,
+              "fields": fields,
+              "footer": {"text": commit_msg}
+            }]
           }
 
           req = urllib.request.Request(
-              webhook_url,
-              data=json.dumps(payload).encode('utf-8'),
-              headers={'Content-Type': 'application/json'}
+            webhook_url,
+            data=json.dumps(payload).encode('utf-8'),
+            headers={
+              'Content-Type': 'application/json',
+              'User-Agent': 'GunsAndGoblins-GitHub-Action/1.0'
+            }
           )
 
           try:
-              urllib.request.urlopen(req)
-              print("Discord notification sent!")
+            urllib.request.urlopen(req, timeout=30)
+            print("✅ Discord notification sent!")
           except urllib.error.HTTPError as e:
-              print(f"Failed to send notification: {e.code}")
-              body = e.read().decode('utf-8')
-              print(f"Response: {body}")
-              raise
+            print(f"❌ HTTP {e.code}")
+            print(f"Response: {e.read().decode('utf-8')}")
+            raise
           PYTHON
