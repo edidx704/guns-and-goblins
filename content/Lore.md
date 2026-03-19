@@ -105,3 +105,5 @@ Falls dein Autoklast kaputt geht, kannst du dir einen neuen for free holen oder 
 **Metatraits:**
 * Machine [25]
 * Automaton [-85]
+# Banknoten des Moranischen Kaiserreichs (Bab)
+![[Banknote.png]]
