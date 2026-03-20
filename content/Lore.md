@@ -107,3 +107,6 @@ Falls dein Autoklast kaputt geht, kannst du dir einen neuen for free holen oder 
 * Automaton [-85]
 # Banknoten des Moranischen Kaiserreichs (Bab)
 ![[Banknote.png]]
+# Esterländer Dicke Bockwurst
+Populäres Heimatprodukt Estrias, produziert von der Mettmann Fleischwarenfabrik GmbH in Astar.
+![[esterländer.png]] ![[bockwurst-lamia.png]]
